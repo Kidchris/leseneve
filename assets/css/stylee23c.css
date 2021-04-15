@@ -4217,13 +4217,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea,
 .btLightSkin .btDarkSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea,
 .btDarkSkin.btLightSkin .btDarkSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea {
-    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-top: 1px solid#68A042;
 }
 
 .btLightSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea,
 .btDarkSkin .btLightSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea,
 .btLightSkin .btDarkSkin .btLightSkin:not(.btAccentLightHeader):not(.btAccentDarkHeader):not(.btLightHeader).btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea {
-    border-top: 1px solid rgba(0, 0, 0, .1);
+    border-top: 1px solid #68A042;
 }
 
 .btMenuHorizontal.btMenuBelowLogo .menuPort {
@@ -4255,8 +4255,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightAccentHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btLightHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader {
-    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 0 0 10px 0 #68A042;
+    box-shadow: 0 0 10px 0 #68A042;
 }
 
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea,
@@ -4272,7 +4272,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>.bt_mega_menu_title,
 .btDarkSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>a,
 .btDarkSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>.bt_mega_menu_title {
-    color: #fff;
+    color: #68A042;
 }
 
 .btLightSkin.btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .menuPort>nav>ul>li>a:hover,
@@ -4283,8 +4283,9 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>.bt_mega_menu_title:hover,
 .btDarkSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>a:hover,
 .btDarkSkin.btAccentLightHeader.btMenuHorizontal .topBar .menuPort>nav>ul>li>.bt_mega_menu_title:hover {
-    color: #fff !important;
-    background: rgba(255, 255, 255, .2) !important;
+    color: #68A042 !important;
+    background: #68A042 !;
+
 }
 
 .btLightSkin.btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .menuPort>nav>ul>li.current-menu-item>a,
@@ -4403,7 +4404,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .topBarInMenu .btSearch .btIco a:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .btSearch .btIco a:before {
-    background: transparent !important;
+    background: #68A042 !important;
     -webkit-box-shadow: 0 0 0 1px #fff inset !important;
     box-shadow: 0 0 0 1px #fff inset !important;
     color: #fff !important;
@@ -4478,7 +4479,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:before {
-    background: transparent !important;
+    background: #68A042 !important;
     -webkit-box-shadow: 0 0 0 1px #fff inset !important;
     box-shadow: 0 0 0 1px #fff inset !important;
     color: #fff !important;
@@ -4493,7 +4494,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 /* Accent light */
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btAccentLightHeader.btMenuHorizontal.btStickyHeaderActive .mainHeader {
-    background-color: #fff;
+    background-color: #68A042;
 }
 
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .btBelowLogoArea,
@@ -4528,7 +4529,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader {
-    background-color: transparent;
+    background-color: #68A042;
 }
 
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .btBelowLogoArea,
@@ -6296,7 +6297,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btMenuVertical.btLightSkin .menuPort {
-    background-color: #fff;
+    background-color: #68A042;
     -webkit-box-shadow: 0 0 50px 0 rgba(0, 0, 0, .1);
     box-shadow: 0 0 50px 0 rgba(0, 0, 0, .1);
 }
@@ -37075,4 +37076,4 @@ em {
     margin: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map *
