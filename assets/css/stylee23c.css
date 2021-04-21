@@ -404,7 +404,7 @@ body {
 /* Form elements */
 select,
 input {
-    font-family: Roboto;
+    font-family: forte;
 }
 
 input:not([type='checkbox']):not([type='radio']),
@@ -419,7 +419,7 @@ select {
     font: inherit;
     width: 100%;
     line-height: 1;
-    font-family: "Roboto";
+    font-family: "forte";
     font-size: .8em;
     width: 100%;
     display: block;
@@ -574,7 +574,7 @@ html a:hover,
 .btLightSkin .btDarkSkin a:hover,
 .btDarkSkin.btLightSkin .btDarkSkin a:hover {
     text-decoration: none;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .btText a,
@@ -583,7 +583,7 @@ html a:hover,
 .btDarkSkin .btText a,
 .btLightSkin .btDarkSkin .btText a,
 .btDarkSkin.btLightSkin .btDarkSkin .btText a {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .btText a:hover,
@@ -670,7 +670,7 @@ dd:after {
 
 figcaption {
     font-size: .8em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 /* Base font */
@@ -688,7 +688,7 @@ html {
 }
 
 body {
-    font-family: "Roboto", Arial, sans-serif;
+    font-family: "forte", Arial, sans-serif;
 }
 
 body {
@@ -706,7 +706,7 @@ small {
 /* Blockquotes*/
 .btContentHolder blockquote {
     display: block;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     padding: .475em 0 .475em 3.5em;
     margin: 1em 0;
     font-size: 1.125em;
@@ -747,7 +747,7 @@ small {
 .btContentHolder blockquote:before {
     content: '\201d';
     opacity: .4;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     display: block;
     font-size: 4.5em;
     font-weight: 900;
@@ -764,7 +764,7 @@ small {
 
 .btContentHolder cite {
     font-size: 1em;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-style: normal;
     text-align: right;
     font-weight: 800;
@@ -777,7 +777,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
 }
 
 h1,
@@ -866,9 +866,9 @@ h6 {
 
 .btContentHolder table thead th {
     font-weight: 700;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: white;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     -webkit-box-shadow: 0 -3px 0 #760002;
     box-shadow: 0 -3px 0 #760002;
 }
@@ -1804,7 +1804,7 @@ h6 {
 
 /* Accent color background helper class */
 .btAccentColorBackground {
-    background-color: #dc0003 !important;
+    background-color: #2d1a97 !important;
 }
 
 .btAccentColorBackground .headline b.animate.animated {
@@ -2209,7 +2209,7 @@ body:not(.btHalfPage) .rowItem.animate:nth-child(11) {
 }
 
 .btPreloader .animation .preloaderLogo {
-    height: 50px;
+    height: 85px;
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     -ms-transform: scale(1);
@@ -2388,13 +2388,13 @@ body:not(.btHalfPage) .rowItem.animate:nth-child(11) {
 }
 
 .btPageHeadline .header .dash .btSuperTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
     margin-bottom: -1.0714em;
 }
 
 .btPageHeadline .header .dash .btSubTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
 }
 
@@ -2432,17 +2432,17 @@ body:not(.btHalfPage) .rowItem.animate:nth-child(11) {
 .mainHeader {
     width: 100%;
     position: absolute;
-    background-color: inherit;
+    background-color: #2d1a97;
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     transform: translateY(0);
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
 }
 
 .btMenuVertical.btAccentDarkHeader .mainHeader,
 .btMenuVertical.btLightAccentHeader .mainHeader {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btMenuVertical.btAccentDarkHeader .mainHeader .btVerticalMenuTrigger .btIco.btIcoDefaultType .btIcoHolder:before,
@@ -2491,7 +2491,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 .mainHeader.btLightSkin,
 .btDarkSkin .mainHeader.btLightSkin,
 .btLightSkin .mainHeader {
-    background-color: #fff;
+    background-color: #68A042;
 }
 
 /* Below menu */
@@ -2530,7 +2530,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
     bottom: 0;
     left: -2000em;
     right: -2000em;
-    background-color: #181818;
+    background-color: #68A042 !important;
     z-index: -1;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
@@ -2544,7 +2544,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 }
 
 .menuPort {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     visibility: hidden;
     font-size: 15px;
 }
@@ -2631,7 +2631,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .menuPort nav ul ul li>a:hover,
 .menuPort nav ul ul li>.bt_mega_menu_title:hover {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .menuPort nav ul ul li.on {
@@ -2661,7 +2661,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 /* Logo and triggers */
 .btTextLogo {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-size: 2em;
     font-weight: 800;
     line-height: 50px;
@@ -2673,7 +2673,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .btLogoArea .logo {
     line-height: 50px;
-    padding: 28px 15px;
+    padding: 5px 5px;
     float: left;
     -webkit-transition: 300ms ease opacity;
     -moz-transition: 300ms ease opacity;
@@ -2692,7 +2692,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 }
 
 .btLogoArea .logo img {
-    height: 50px;
+    height: 85px;
     width: auto;
     display: block;
 }
@@ -2706,7 +2706,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 }
 
 .btMenuVertical .btLogoArea .logo {
-    padding: 23px 0;
+
     padding-left: 20px;
 }
 
@@ -2838,11 +2838,11 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .btHorizontalMenuTrigger:hover:before,
 .btHorizontalMenuTrigger:hover:after {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 .btHorizontalMenuTrigger:hover .btIco {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 .rtl .btShowMenu .btHorizontalMenuTrigger {
@@ -2886,7 +2886,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btMenuHorizontal .menuPort nav>ul>li.current-page-ancestor>.bt_mega_menu_title,
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-item>.bt_mega_menu_title {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 /* Skins */
@@ -2936,7 +2936,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
     top: 50%;
     left: 0;
     height: 1px;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     width: 20px;
     -webkit-transform: scaleX(0);
     -moz-transform: scaleX(0);
@@ -2983,7 +2983,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .btMenuHorizontal .menuPort ul ul li.menu-item-has-children>a:hover:after {
     right: .5em;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btMenuHorizontal .menuPort ul ul li.current-menu-item>a:before {
@@ -2996,8 +2996,8 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 }
 
 .btMenuHorizontal .menuPort ul ul li.current-menu-item>a:hover:before {
-    background-color: #dc0003;
-    border-color: #dc0003;
+    background-color: #2d1a97;
+    border-color: #2d1a97;
     -webkit-transform: scaleX(1);
     -moz-transform: scaleX(1);
     -ms-transform: scaleX(1);
@@ -3314,7 +3314,7 @@ body.btMenuHorizontal .menuPort ul ul li.on .subToggler:before {
     box-shadow: 0 1px 5px 0 rgba(0, 0, 0, .25);
     z-index: 1;
     padding: 10px 0;
-    font-family: Roboto;
+    font-family: forte;
 }
 
 .btMenuHorizontal .menuPort>nav>ul ul li {
@@ -3560,7 +3560,7 @@ body.btMenuHorizontal .menuPort ul ul li.on .subToggler:before {
     right: auto;
 }
 
-.btMenuHorizontal.btMenuCenter .logo {
+.btMenuHorizontal.btMenuCenter {
     position: relative;
     z-index: 8;
     float: left;
@@ -3809,7 +3809,7 @@ html:not(.touch) body.btMenuHorizontal .menuPort>nav>ul>li.btMenuWideDropdown>ul
 
 html:not(.touch) body.btMenuHorizontal .menuPort>nav>ul>li.btMenuWideDropdown>ul>li>a {
     border-top: none !important;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-size: 1.077em;
     font-weight: 700;
 }
@@ -3976,7 +3976,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
     html.touch body.btMenuHorizontal .menuPort>nav>ul>li.btMenuWideDropdown>ul>li>a {
         border-top: none !important;
-        font-family: Roboto Slab;
+        font-family: forte Slab;
         font-size: 1.077em;
         font-weight: 700;
     }
@@ -4390,14 +4390,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -4414,7 +4414,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btAccentLightHeader.btMenuHorizontal .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -4467,13 +4467,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topTools .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentLightHeader.btMenuHorizontal .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -4488,7 +4488,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 /* Accent light */
@@ -4501,7 +4501,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .topBar,
 .btAccentLightHeader.btMenuHorizontal.btStickyHeaderActive .btBelowLogoArea,
 .btAccentLightHeader.btMenuHorizontal.btStickyHeaderActive .topBar {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .btBelowLogoArea:before,
@@ -4515,7 +4515,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
     bottom: 0;
     left: -2000em;
     right: -2000em;
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .btBelowLogoArea:after,
@@ -4534,7 +4534,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .btBelowLogoArea,
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .topBar {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -4597,7 +4597,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btLightSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea .menuPort>nav>ul>li.on>a,
@@ -4622,21 +4622,21 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4663,14 +4663,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:before {
@@ -4681,8 +4681,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
     color: #fff !important;
 }
 
@@ -4708,7 +4708,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal .topTools a:hover.btIconWidget .btIconWidgetContent {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -4716,7 +4716,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightHeader.btMenuHorizontal .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4727,8 +4727,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:before {
@@ -4739,8 +4739,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
     color: #fff !important;
 }
 
@@ -4858,7 +4858,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a:hover.btIconWidget .btIconWidgetContent {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -4866,7 +4866,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4877,8 +4877,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:before {
@@ -4889,8 +4889,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
     color: #fff !important;
 }
 
@@ -4913,7 +4913,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btLightSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.on>a,
@@ -4934,21 +4934,21 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4975,14 +4975,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:before {
@@ -4993,8 +4993,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
     color: #fff !important;
 }
 
@@ -5048,13 +5048,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -5069,12 +5069,12 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btAccentDarkHeader.btMenuHorizontal.btStickyHeaderActive .mainHeader {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader .btBelowLogoArea,
@@ -5127,7 +5127,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5232,13 +5232,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -5253,12 +5253,12 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btLightAccentHeader.btMenuHorizontal.btStickyHeaderActive .mainHeader {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader .btBelowLogoArea,
@@ -5301,7 +5301,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightAccentHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5345,7 +5345,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btLightSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.on>a,
@@ -5378,7 +5378,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a:hover.btIconWidget .btIconWidgetContent,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -5397,9 +5397,9 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -5412,8 +5412,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -5421,22 +5421,22 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:before,
@@ -5449,8 +5449,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:hover:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset !important;
-    box-shadow: 0 0 0 1.5em #dc0003 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
     color: #fff !important;
 }
 
@@ -5497,7 +5497,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btBlackHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5873,11 +5873,11 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 
 .btVerticalMenuTrigger:hover:before,
 .btVerticalMenuTrigger:hover:after {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 .btVerticalMenuTrigger:hover .btIco {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 .btMenuVerticalOn.rtl .btVerticalMenuTrigger {
@@ -5966,18 +5966,18 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 .btMenuVertical>.menuPort .logo {
     float: none;
     margin: 0;
-    padding: 23px 2em;
+    padding: 5px 5px;
     -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
 }
 
 .btAccentDarkHeader.btMenuVertical>.menuPort .logo,
 .btLightAccentHeader.btMenuVertical>.menuPort .logo {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btBlackHeader.btMenuVertical>.menuPort .logo {
-    background-color: #000;
+    background-color: rgb(51, 133, 3);
 }
 
 .btMenuVertical>.menuPort .logo img {
@@ -6019,7 +6019,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btMenuVertical>.menuPort nav ul ul li {
-    font-family: Roboto;
+    font-family: forte;
     padding: 0;
     opacity: 1;
     border: none;
@@ -6054,7 +6054,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btMenuVertical .bt_mega_menu_content {
-    font-family: Roboto;
+    font-family: forte;
 }
 
 .btMenuVertical .bt_mega_menu_content .rowItem {
@@ -6205,7 +6205,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
     }
 
     .btMenuVerticalOn .btVerticalMenuTrigger .btIco a:before {
-        color: #dc0003 !important;
+        color: #2d1a97 !important;
     }
 
     .btMenuVertical .btLogoArea .btVerticalMenuTrigger {
@@ -6325,7 +6325,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell {
-    border: 0 solid #dc0003;
+    border: 0 solid #2d1a97;
 }
 
 .btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell .widget_bt_banner_widget {
@@ -6502,7 +6502,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btSearchInner.btFromTopBox .btSearchInnerClose .btIco a.btIcoHolder {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -6635,7 +6635,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btSearchInner.btFromTopBox button:hover:before {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: color 300ms ease;
     -moz-transition: color 300ms ease;
     transition: color 300ms ease;
@@ -6984,7 +6984,7 @@ html[data-useragent*='MSIE 10.0'] body.btMenuHorizontal .menuPort ul>li.on>ul>li
 .btDarkSkin .btSiteFooter .port:before,
 .btLightSkin .btDarkSkin .btSiteFooter .port:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btSiteFooter .port:before {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 section footer,
@@ -6999,7 +6999,7 @@ article footer {
 .btLightSkin .btDarkSkin .btFooterBelow,
 .btDarkSkin.btLightSkin .btDarkSkin .btFooterBelow {
     font-size: .8125em;
-    border-bottom: #dc0003 4px solid;
+    border-bottom: #2d1a97 4px solid;
 }
 
 .btLightSkin .btFooterBelow ul,
@@ -7069,7 +7069,7 @@ article footer {
 .btDarkSkin.btLightSkin .btDarkSkin .btFooterBelow ul li a:after {
     display: block;
     clear: none;
-    border-bottom: 1px solid #dc0003;
+    border-bottom: 1px solid #2d1a97;
     content: "";
     -webkit-transform: scaleX(0);
     -moz-transform: scaleX(0);
@@ -7122,7 +7122,7 @@ article footer {
 }
 
 .btFooterLargeTitle .btIcoHolder span {
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-weight: 700;
 }
 
@@ -7408,12 +7408,12 @@ article footer {
 .btMediaBox.btQuote,
 .btMediaBox.btLink {
     text-align: center;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     position: relative;
     display: block;
     padding: 30px;
     margin: 0;
-    background-color: #dc0003 !important;
+    background-color: #2d1a97 !important;
     font-weight: 300;
     padding: 45px;
 }
@@ -7619,7 +7619,7 @@ article footer {
 }
 
 .btArticleListItem .headline a:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btArticleListItem.btListSwap:nth-child(odd) .btArticleListBody .boldRow .rowItem {
@@ -7730,7 +7730,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #dc0003;
+    color: #2d1a97;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -7791,7 +7791,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 }
 
 .btCommentsBox ul.comments .pingback p a {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .btCommentsBox ul.comments li.comment {
@@ -7901,7 +7901,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 }
 
 .btCommentsBox .pcItem label .required {
-    color: #dc0003;
+    color: #2d1a97;
     font-weight: 900;
 }
 
@@ -7979,7 +7979,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
     line-height: 1.15;
     text-align: left;
     padding: 0 0 0 10px;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     font-size: .6875em;
     line-height: 2.36em;
     border-left: 1px solid rgba(0, 0, 0, .1);
@@ -8052,7 +8052,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 .btCommentsBox .commentTxt p.reply {
     float: left;
     margin: 0 2em 0 0;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     font-size: .675em;
     text-transform: uppercase;
 }
@@ -8128,7 +8128,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #dc0003;
+    color: #2d1a97;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -8192,12 +8192,12 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 .no-comments {
     opacity: .5;
     text-align: center;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     text-transform: uppercase;
 }
 
 .comment-respond .btnOutline button[type="submit"] {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     margin: -7px -12px;
     padding: 7px 20px;
     height: 41px;
@@ -8210,7 +8210,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 
 a#cancel-comment-reply-link {
     font-weight: 700;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     background: #616161;
     border: 2px solid transparent;
     color: #fff;
@@ -8306,12 +8306,12 @@ a#cancel-comment-reply-link:hover {
     color: #FFF;
     width: auto;
     height: 35px;
-    background: #dc0003;
+    background: #2d1a97;
     border: 0;
     cursor: pointer;
     padding: .675em .923em;
     font-size: .8125em;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     text-transform: uppercase;
     font-weight: 700;
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .35);
@@ -8330,7 +8330,7 @@ a#cancel-comment-reply-link:hover {
 
 /* Pagination */
 .btPagination {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-weight: 400;
     font-size: 1em;
     line-height: 38px;
@@ -8467,7 +8467,7 @@ a#cancel-comment-reply-link:hover {
     border-radius: 50%;
     width: 1.6275em;
     text-align: center;
-    background: #dc0003;
+    background: #2d1a97;
     color: #fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -8487,7 +8487,7 @@ a#cancel-comment-reply-link:hover {
     line-height: 1.4;
     width: 120px;
     font-size: .6875em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .rtl .articleSideGutter {
@@ -8549,7 +8549,7 @@ a#cancel-comment-reply-link:hover {
 .simpleArticleSideGutter {
     font-size: .6875em;
     text-align: left;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .rtl .simpleArticleSideGutter {
@@ -8710,7 +8710,7 @@ span.enhanced {
 span.btHighlight {
     display: inline-block;
     padding: .06em .5em;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
 }
 
@@ -8753,7 +8753,7 @@ span.btHighlight {
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
     text-decoration: none;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .gridItem .btArticleCategories a {
@@ -8914,7 +8914,7 @@ body.rtl .btArticleViewsCount:before {
 
 /* Portfolio Item */
 .btPortfolioSubtitle {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     display: block;
     opacity: .3;
     font-size: .425em;
@@ -8929,7 +8929,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btArticleMeta {
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
 }
 
 .btArticleMeta dd,
@@ -9191,13 +9191,13 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .single-post .btPageHeadline.wBackground>.port header .dash .btSuperTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
     margin-bottom: 1.0714em;
 }
 
 .single-post .btPageHeadline.wBackground>.port header .dash .btSubTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
 }
 
@@ -9352,7 +9352,7 @@ body.rtl .btArticleViewsCount:before {
 .btReviewHolder h5.btReviewHeadingSummary {
     background: #616161;
     color: #fff;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .8125em;
     font-weight: 700;
     text-transform: uppercase;
@@ -9372,7 +9372,7 @@ body.rtl .btArticleViewsCount:before {
 
 .btReviewHolder .btReviewSegmentTitle,
 .btReviewHolder .btSummary {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .8125em;
     display: block;
 }
@@ -9403,7 +9403,7 @@ body.rtl .btArticleViewsCount:before {
 
 .btReviewHolder .btReviewScore .btReviewPercentage .btScoreTitle {
     display: block;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .8125em;
     font-weight: 700;
     text-transform: uppercase;
@@ -9413,7 +9413,7 @@ body.rtl .btArticleViewsCount:before {
     display: block;
     font-size: 1.875em;
     line-height: 1em;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
 }
 
 .btReviewHolder .btReviewScore .btReviewStars {
@@ -9457,7 +9457,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSinglePostTemplate .btPostImageHolder .btSinglePostTopMetaData .btArticleCategories {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .6875em;
     line-height: 1.5em;
     display: block;
@@ -9520,8 +9520,8 @@ body.rtl .btArticleViewsCount:before {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
     position: absolute;
     z-index: 1;
     opacity: .75;
@@ -9569,7 +9569,7 @@ body.rtl .btArticleViewsCount:before {
 
 .quote.btSinglePostTemplate .btPostImageHolder .btSinglePostTopMetaData .btSinglePostFormat:after {
     content: "\201D";
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-weight: 100 !important;
     font-size: 48px;
     line-height: 65px;
@@ -9582,7 +9582,7 @@ body.rtl .btArticleViewsCount:before {
     display: block;
     width: 40px;
     height: 40px;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     position: absolute;
     z-index: 4;
     line-height: 11px;
@@ -9595,8 +9595,8 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSinglePostTemplate:hover .btPostImageHolder .btSinglePostTopMetaData .btSinglePostFormat:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btSinglePostTemplate:hover .btPostImageHolder .btSinglePostTopMetaData .btSinglePostFormat:after {
@@ -9743,7 +9743,7 @@ body.rtl .btArticleViewsCount:before {
 .btSinglePostTemplate .btSinglePostContent .btSinglePostBottomData,
 .btSinglePostTemplate .btSinglePostContent .btSinglePostTopData {
     font-size: .6875em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .btSinglePostTemplate .btSinglePostContent .btSinglePostTopData {
@@ -10005,7 +10005,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSingleHighlight.topImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .backgroundImagePosition.btSinglePostTemplate,
@@ -10191,7 +10191,7 @@ body.rtl .btArticleViewsCount:before {
 
 .backgroundImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .backgroundImagePosition.smallTemplate.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .backgroundImagePosition.btSinglePostTemplate:hover .btSinglePostBackgroundImage,
@@ -10390,7 +10390,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSingleHighlight.no-imageImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .largeTemplate.btSinglePostTemplate {
@@ -11005,7 +11005,7 @@ body.rtl .btArticleViewsCount:before {
 .smallTemplate.rightImagePosition.btSinglePostTemplate .btSinglePostContent .btArticleCategories,
 .smallTemplate.sideImagePosition.text-left.btSinglePostTemplate .btSinglePostContent .btArticleCategories,
 .smallTemplate.sideImagePosition.text-right.btSinglePostTemplate .btSinglePostContent .btArticleCategories {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .625em;
     line-height: 1.5em;
     display: block;
@@ -11211,7 +11211,7 @@ body.rtl .btArticleViewsCount:before {
 .btSingleHighlight.rightImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .btSingleHighlight.sideImagePosition.text-left.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .btSingleHighlight.sideImagePosition.text-right.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .rightImagePosition.btSinglePostTemplate,
@@ -11273,7 +11273,7 @@ body.rtl .btArticleViewsCount:before {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #dc0003;
+    color: #2d1a97;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -12313,7 +12313,7 @@ body.rtl .btArticleViewsCount:before {
     font-size: 1.125em;
     line-height: 1.55em;
     font-weight: 700;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     margin-bottom: 19.95px;
 }
 
@@ -12426,7 +12426,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     clear: both;
     width: 3em;
     display: block;
-    border-bottom: 3px solid #dc0003;
+    border-bottom: 3px solid #2d1a97;
     margin: .5em 0 .7em;
 }
 
@@ -12517,7 +12517,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     width: 30px;
     content: "";
-    border-top: 1px solid #dc0003;
+    border-top: 1px solid #2d1a97;
     position: absolute;
     left: -30px;
     top: 50%;
@@ -16605,7 +16605,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox ul li.current-menu-item>a,
 .btCustomMenu ul li.current-menu-item>a,
 .btTopBox ul li.current-menu-item>a {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btSidebar .btBox ul li:first-child,
@@ -16693,7 +16693,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox .ppTxt .header .headline a:hover,
 .btCustomMenu .ppTxt .header .headline a:hover,
 .btTopBox .ppTxt .header .headline a:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btBox .ppTxt .header .btSuperTitle,
@@ -16734,7 +16734,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     font-weight: 600;
     margin: 0;
     font-size: .8em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .btBox.widget_bt_recent_posts ul li a:before,
@@ -16812,9 +16812,9 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .widget_calendar table caption {
-    background: #dc0003;
+    background: #2d1a97;
     color: #FFF;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-weight: 700;
     padding: 5px;
 }
@@ -16823,12 +16823,12 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     background: #616161;
     text-align: center;
     padding: 3px;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .8125em;
 }
 
 .widget_calendar table tfoot td {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     padding: 3px;
     font-size: .8125em;
     font-weight: 700;
@@ -16880,9 +16880,9 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     -webkit-transition: 300ms ease box-shadow, 300ms ease color;
     -moz-transition: 300ms ease box-shadow, 300ms ease color;
     transition: 300ms ease box-shadow, 300ms ease color;
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset;
-    box-shadow: 0 0 0 1px #dc0003 inset;
-    color: #dc0003;
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
+    box-shadow: 0 0 0 1px #2d1a97 inset;
+    color: #2d1a97;
     margin-top: -11.5px;
 }
 
@@ -16897,8 +16897,8 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox.shortcode_widget_categories ul li a:hover>span,
 .btBox.widget_product_categories ul li a:hover>span {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff;
 }
 
@@ -16937,7 +16937,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .widget_rss li a.rsswidget {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-weight: 700;
 }
 
@@ -16960,7 +16960,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .fancy-select .trigger {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     overflow: hidden;
     white-space: nowrap;
     -o-text-overflow: ellipsis;
@@ -17084,7 +17084,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .fancy-select ul.options li,
 .fancy-select ul.options li:first-child,
 .fancy-select ul.options li:last-child {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     cursor: pointer;
     position: relative;
     padding: .8em 1.3em;
@@ -17099,7 +17099,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     width: 30px;
     content: "";
-    border-top: 1px solid #dc0003;
+    border-top: 1px solid #2d1a97;
     position: absolute;
     left: 0;
     top: 50%;
@@ -17135,7 +17135,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .fancy-select ul.options li:hover {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -17152,7 +17152,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     -moz-transform: scaleX(1);
     -ms-transform: scaleX(1);
     transform: scaleX(1);
-    border-color: #dc0003 !important;
+    border-color: #2d1a97 !important;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -17189,7 +17189,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     border-top-width: 2px;
     padding: .625em 0;
     margin: .625em 0 0;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     line-height: 1.25;
 }
 
@@ -17274,7 +17274,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     width: 1.5em;
     vertical-align: middle;
     color: #fff;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     border-radius: 50%;
 }
 
@@ -17324,15 +17324,15 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .menuPort .widget_shopping_cart .btIco .btIcoHolder:before,
 .topTools .widget_shopping_cart .btIco .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .btIco .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .menuPort .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff !important;
 }
 
@@ -17350,7 +17350,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     padding: 2px 3px;
     background-color: #616161;
     color: #fff;
-    font: normal 10px/1 Roboto Slab;
+    font: normal 10px/1 forte Slab;
     border-radius: 2px;
     position: absolute;
     top: -5px;
@@ -17466,7 +17466,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     text-align: center;
     margin-bottom: 1em;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
     cursor: pointer;
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .35);
@@ -17543,8 +17543,8 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .menuPort .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before,
 .topTools .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff !important;
 }
 
@@ -17561,7 +17561,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 
 /* Product widgets */
 .widget_recent_reviews {
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-size: .8em;
     line-height: 1.4;
 }
@@ -17605,7 +17605,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     z-index: 2;
     width: 1em;
     height: 1em;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     border-radius: 1em;
     cursor: ew-resize;
     outline: 0;
@@ -17679,7 +17679,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     text-transform: capitalize;
     margin: 0 .3em .3em 0;
     font-size: .6875em !important;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -17877,7 +17877,7 @@ footer .btIconWidget .btIconWidgetIcon .btIcoHolder:before {
 
 .btSidebar .btIconWidget .btIconWidgetContent,
 footer .btIconWidget .btIconWidgetContent {
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
@@ -17900,7 +17900,7 @@ footer .btIconWidget .btIconWidgetContent .btIconWidgetTitle {
     margin-bottom: .35em;
     font-size: .6875em;
     text-transform: uppercase;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     opacity: .6;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -17922,7 +17922,7 @@ footer .btIconWidget .btIconWidgetContent .btIconWidgetText {
 .btSidebar .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:hover:before,
 footer .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 footer .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:hover:before {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btSidebar .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetTitle,
@@ -18017,7 +18017,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover,
 .btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover,
 .btDarkSkin.btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btLightSkin .btSidebar a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetTitle,
@@ -18044,7 +18044,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btDarkSkin.btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btSiteFooterWidgets .btBox.widget_shopping_cart .btCartWidgetIcon,
@@ -18127,7 +18127,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
     font-size: 11px;
     line-height: 1.2;
     font-weight: 400;
-    font-family: 'Roboto', arial, sans-serif;
+    font-family: 'forte', arial, sans-serif;
 }
 
 .btTopToolsLeft .btTopBox.widget_bt_text_image:not(:first-child) {
@@ -18183,14 +18183,14 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuHorizontal .mainHeader span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuHorizontal .mainHeader a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btMenuHorizontal .mainHeader span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuHorizontal .mainHeader a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btMenuHorizontal .mainHeader .btIconWidget.btWidgetWithText,
@@ -18205,7 +18205,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuHorizontal .mainHeader .btIconWidgetContent {
-    font-family: Roboto;
+    font-family: forte;
     font-size: .923em;
     margin: 0 0 0 5px;
 }
@@ -18230,15 +18230,15 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuHorizontal.btLightSkin .mainHeader a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
     box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
 }
 
 .btMenuHorizontal.btLightSkin .mainHeader a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btMenuHorizontal.btDarkSkin .mainHeader .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -18251,15 +18251,15 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuHorizontal.btDarkSkin .mainHeader a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #fff;
+    color: #68A042;
     -webkit-box-shadow: 0 0 0 1.5em rgba(255, 255, 255, .1) inset;
     box-shadow: 0 0 0 1.5em rgba(255, 255, 255, .1) inset;
 }
 
 .btMenuHorizontal.btDarkSkin .mainHeader a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    color: #68A042;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 /* Vertical menu */
@@ -18326,14 +18326,14 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btMenuVertical .menuPort .btWidgetWithText,
@@ -18355,7 +18355,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuVertical .menuPort .btIconWidget .btIconWidgetContent {
-    font-family: Roboto;
+    font-family: forte;
     float: none;
     padding: 5px 0 0;
     text-align: center;
@@ -18398,26 +18398,26 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuVertical.btLightSkin a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
     box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
 }
 
 .btMenuVertical.btLightSkin a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btMenuVertical.btLightSkin .btSearch .btIco a:before {
     background: rgba(0, 0, 0, .1);
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btMenuVertical.btLightSkin .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff !important;
 }
 
@@ -18438,8 +18438,8 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuVertical.btDarkSkin a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
 }
 
 .btMenuVertical.btDarkSkin .btSearch .btIco a:before {
@@ -18450,8 +18450,8 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuVertical.btDarkSkin .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff !important;
 }
 
@@ -18617,8 +18617,8 @@ form.woocommerce-product-search button:before {
 .btDarkSkin form.woocommerce-product-search button:hover,
 .btLightSkin .btDarkSkin form.woocommerce-product-search button:hover,
 .btDarkSkin.btLightSkin .btDarkSkin form.woocommerce-product-search button:hover {
-    background: #dc0003 !important;
-    border-color: #dc0003 !important;
+    background: #2d1a97 !important;
+    border-color: #2d1a97 !important;
     color: #fff;
 }
 
@@ -18651,7 +18651,7 @@ form.woocommerce-product-search input[type=submit] {
 
 form.woocommerce-product-search button:hover,
 form.woocommerce-product-search input[type=submit]:hover {
-    background: #dc0003 !important;
+    background: #2d1a97 !important;
     color: #fff !important;
 }
 
@@ -18696,7 +18696,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .topBarInMenu .widget_search button {
     width: 23px;
     height: 23px;
-    background: #dc0003;
+    background: #2d1a97;
     border: 0;
     float: right;
     margin: 0;
@@ -18708,7 +18708,7 @@ form.woocommerce-product-search input[type=submit]:hover {
     font-family: FontAwesome;
     content: "\f002";
     display: inline-block;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .topTools .widget_search button:hover,
@@ -18756,8 +18756,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:before {
     background: rgba(0, 0, 0, .1);
-    -webkit-box-shadow: 0 0 0 0 #dc0003 inset;
-    box-shadow: 0 0 0 0 #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
+    box-shadow: 0 0 0 0 #2d1a97 inset;
 }
 
 .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
@@ -18766,8 +18766,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff;
 }
 
@@ -18789,8 +18789,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before,
 .btDarkSkin.btLightSkin .btDarkSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
 .btDarkSkin.btLightSkin .btDarkSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff;
 }
 
@@ -18952,7 +18952,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 }
 
 .btIcoFilledType.btIcoAccentColor.btIconHexagonShape.btIco .btIcoHolder .hex {
-    fill: #dc0003;
+    fill: #2d1a97;
 }
 
 .btIcoFilledType.btIcoAlternateColor.btIconHexagonShape.btIco .btIcoHolder .hex {
@@ -18971,7 +18971,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 .btIcoOutlineType.btIcoAccentColor.btIconHexagonShape.btIco .btIcoHolder .hex {
     fill: transparent;
-    stroke: #dc0003;
+    stroke: #2d1a97;
 }
 
 .btIcoOutlineType.btIcoAlternateColor.btIconHexagonShape.btIco .btIcoHolder .hex {
@@ -19013,8 +19013,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btLightSkin .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btDarkSkin.btLightSkin .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex {
-    fill: #dc0003;
-    stroke: #dc0003;
+    fill: #2d1a97;
+    stroke: #2d1a97;
 }
 
 .btLightSkin .btIconHexagonShape.btIcoOutlineType.btIcoAlternateColor.btIco:hover .btIcoHolder .hex,
@@ -19044,7 +19044,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btIconHexagonShape.btIcoFilledType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btDarkSkin.btLightSkin .btDarkSkin .btIconHexagonShape.btIcoFilledType.btIcoAccentColor.btIco:hover .btIcoHolder .hex {
     fill: transparent;
-    stroke: #dc0003;
+    stroke: #2d1a97;
 }
 
 /* Hexagonal take */
@@ -19087,25 +19087,25 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 .btIconHexagonShape .btIco.btIcoFilledType .btIcoHolder svg .hex {
     stroke: none;
-    fill: #dc0003;
+    fill: #2d1a97;
     stroke-width: 0;
 }
 
 .btIconHexagonShape .btIco.btIcoFilledType:hover .btIcoHolder svg .hex {
-    stroke: #dc0003;
+    stroke: #2d1a97;
     fill: transparent;
     stroke-width: 3px;
 }
 
 .btIconHexagonShape .btIco.btIcoOutlineType .btIcoHolder svg .hex {
-    stroke: #dc0003;
+    stroke: #2d1a97;
     fill: transparent;
     stroke-width: 3px;
 }
 
 .btIconHexagonShape .btIco.btIcoOutlineType:hover .btIcoHolder svg .hex {
-    stroke: #dc0003;
-    fill: #dc0003;
+    stroke: #2d1a97;
+    fill: #2d1a97;
     stroke-width: 3px;
 }
 
@@ -19198,16 +19198,16 @@ form.woocommerce-product-search input[type=submit]:hover {
 /* Filled and Outline Accent */
 .btIco.btIcoFilledType.btIcoAccentColor .btIcoHolder:before,
 .btIco.btIcoOutlineType.btIcoAccentColor:hover .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #dc0003 inset;
-    box-shadow: 0 0 0 1.5em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    box-shadow: 0 0 0 1.5em #2d1a97 inset;
     color: #fff;
 }
 
 .btIco.btIcoFilledType.btIcoAccentColor:hover .btIcoHolder:before,
 .btIco.btIcoOutlineType.btIcoAccentColor .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset;
-    box-shadow: 0 0 0 1px #dc0003 inset;
-    color: #dc0003;
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
+    box-shadow: 0 0 0 1px #2d1a97 inset;
+    color: #2d1a97;
 }
 
 /* Filled and Outline Alternate */
@@ -19493,7 +19493,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .btIco.btIcoDefaultType.btIcoAlternateColor .btIcoHolder:before,
@@ -19785,19 +19785,19 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 /* Icons side text color */
 .btIcoAccentColor:hover span {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .btIcoAccentColor:hover span,
 .btDarkSkin .btLightSkin .btIcoAccentColor:hover span,
 .btLightSkin .btDarkSkin .btLightSkin .btIcoAccentColor:hover span {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btDarkSkin .btIcoAccentColor:hover span,
 .btLightSkin .btDarkSkin .btIcoAccentColor:hover span,
 .btDarkSkin.btLightSkin .btDarkSkin .btIcoAccentColor:hover span {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btIcoAlternateColor:hover span {
@@ -19829,7 +19829,7 @@ form.woocommerce-product-search input[type=submit]:hover {
     -webkit-transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     transition: all 500ms ease;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     margin-top: .2em;
     padding: .675em .923em;
 }
@@ -20046,7 +20046,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 /* Button colors */
 /* Accent */
 .btnFilledStyle.btnAccentColor {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     border: 2px solid transparent;
 }
 
@@ -20061,7 +20061,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnFilledStyle.btnAccentColor:hover {
     background-color: #760002;
     border: 2px solid transparent;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btnFilledStyle.btnAccentColor:hover span,
@@ -20074,8 +20074,8 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 
 .btnOutlineStyle.btnAccentColor {
     background-color: transparent;
-    border: 2px solid #dc0003;
-    color: #dc0003;
+    border: 2px solid #2d1a97;
+    color: #2d1a97;
 }
 
 .btnOutlineStyle.btnAccentColor span,
@@ -20083,12 +20083,12 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnOutlineStyle.btnAccentColor a,
 .btnOutlineStyle.btnAccentColor .btIco a:before,
 .btnOutlineStyle.btnAccentColor button {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btnOutlineStyle.btnAccentColor:hover {
-    background-color: #dc0003;
-    border: 2px solid #dc0003;
+    background-color: #2d1a97;
+    border: 2px solid #2d1a97;
 }
 
 .btnOutlineStyle.btnAccentColor:hover span,
@@ -20104,7 +20104,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnBorderlessStyle.btnAccentColor a,
 .btnBorderlessStyle.btnAccentColor .btIco a:before,
 .btnBorderlessStyle.btnAccentColor button {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 /* Alternate */
@@ -20635,7 +20635,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 
 /* Counter */
 .btCounterHolder {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-size: 3em;
     height: 1em;
     line-height: 1;
@@ -20754,7 +20754,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
     width: 100% !important;
     text-align: center;
     font-size: .229em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-weight: 400;
     text-transform: uppercase;
     -webkit-backface-visibility: hidden;
@@ -20792,7 +20792,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 }
 
 .btProgressContent {
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     background-color: rgba(0, 0, 0, .07);
     line-height: 1.625em;
     overflow: hidden;
@@ -20817,7 +20817,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
     -ms-transform: translateX(-100%);
     transform: translateX(-100%);
     width: auto;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
 }
 
@@ -21977,7 +21977,7 @@ html.touch .btShowTitle {
 
 .bpgPhoto:hover .captionPane .captionTable .captionTxt .btTilesArticleTop {
     font-size: .6875em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     margin-bottom: 5px;
 }
 
@@ -22033,7 +22033,7 @@ html.touch .btShowTitle {
 
 .bpgPhoto:hover .captionPane .captionTable .captionTxt .btTilesArticleBottom {
     font-size: .6875em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     border-top: 1px solid rgba(255, 255, 255, .1);
     padding-top: 15px;
     margin-top: 5px;
@@ -22434,7 +22434,7 @@ html.touch .btShowTitle {
 
 .btPriceTable .btPriceTableHeader {
     margin: -1px -1px 0 -1px;
-    background: #dc0003;
+    background: #2d1a97;
     padding: 2em;
 }
 
@@ -22535,7 +22535,7 @@ html.touch .btShowTitle {
     width: 80px;
     height: 80px;
     border-radius: 40px;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
 }
 
 .btPriceTableSticker>div {
@@ -22714,7 +22714,7 @@ html.touch .btShowTitle {
 
 .header .headline .btSuperTitleHeading,
 .header .dash .btSuperTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
     margin-bottom: 1.0714em;
     margin-top: .7142em;
@@ -22722,18 +22722,18 @@ html.touch .btShowTitle {
 
 .header .headline .btSubTitleHeading,
 .header .dash .btSubTitleHeading {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .875em;
     margin-bottom: .7142em;
 }
 
 .header .btSuperTitle {
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     margin-bottom: .6em;
 }
 
 .header .btSubTitle {
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     font-size: 1em;
     margin-bottom: .75em;
     clear: both;
@@ -22746,7 +22746,7 @@ html.touch .btShowTitle {
     width: 5em;
     display: block;
     margin: 0 0 1.4em;
-    border-bottom: 4px solid #dc0003;
+    border-bottom: 4px solid #2d1a97;
     float: left;
 }
 
@@ -22820,7 +22820,7 @@ body.rtl .btDash.topDash .btSuperTitle {
     -webkit-flex: 15 1 auto;
     -ms-flex: 15 1 auto;
     flex: 15 1 auto;
-    border-top: 1px solid #dc0003;
+    border-top: 1px solid #2d1a97;
 }
 
 .btDash.topDash .btSuperTitle:after {
@@ -23153,7 +23153,7 @@ body.rtl .btDash.topDash .btSuperTitle {
     display: none;
     opacity: 1;
     padding: 3em 0;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     opacity: .5;
     font-size: .8125em;
     text-transform: uppercase;
@@ -23164,7 +23164,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btGridContent .header .btSuperTitle a:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btGridGap-0 .gridItem:after {
@@ -24227,7 +24227,7 @@ body.rtl .btDash.topDash .btSuperTitle {
     padding: 2em 20px;
     text-transform: uppercase;
     font-size: .8125em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .btCatFilter .btCatFilterItem {
@@ -24240,7 +24240,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btCatFilter .btCatFilterItem:hover {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -24251,11 +24251,11 @@ body.rtl .btDash.topDash .btSuperTitle {
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
-    border-bottom-color: #dc0003 !important;
+    border-bottom-color: #2d1a97 !important;
 }
 
 .btCatFilter .btCatFilterItem.active {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -24263,7 +24263,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btCatFilter .btCatFilterItem.active b:after {
-    border-bottom-color: #dc0003 !important;
+    border-bottom-color: #2d1a97 !important;
     width: 100%;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -24278,7 +24278,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 .btCatFilter .btCatFilterItem b:after {
     content: "";
     display: block;
-    border-bottom: 1px solid #dc0003;
+    border-bottom: 1px solid #2d1a97;
     bottom: 0;
     left: 0;
     width: 0;
@@ -24530,7 +24530,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 .nbs a .nbsItem .nbsDir {
     display: block;
     font-size: .8em;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
     text-transform: uppercase;
     font-weight: 400;
 }
@@ -24861,7 +24861,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 .neighboringArticles .nbs a .nbsItem .nbsDir {
     font-size: .366em;
     line-height: 1.1;
-    font-family: 'Roboto Condensed', arial, sans-serif;
+    font-family: 'forte Condensed', arial, sans-serif;
 }
 
 .neighboringArticles .nbs a .nbsItem .nbsTitle {
@@ -24903,7 +24903,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .neighboringArticles .nbs a:hover .nbsTitle {
-    color: #dc0003;
+    color: #2d1a97;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -25631,7 +25631,7 @@ h4.nbs.slick-disabled a {
     position: relative;
     top: 3px;
     margin-right: 3px;
-    color: #dc0003;
+    color: #2d1a97;
     clear: both;
 }
 
@@ -25695,7 +25695,7 @@ h4.nbs.slick-disabled a {
     font-weight: 400;
     color: white;
     text-transform: uppercase;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .8125em;
 }
 
@@ -25761,7 +25761,7 @@ h4.nbs.slick-disabled a {
     clear: none;
     cursor: pointer;
     position: relative;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
 }
 
 .rtl .tabsHeader li {
@@ -25780,7 +25780,7 @@ h4.nbs.slick-disabled a {
 
 .tabsHeader li a:hover,
 .tabsHeader li span:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .tabsHeader li.on a,
@@ -25835,7 +25835,7 @@ h4.nbs.slick-disabled a {
     margin: 0;
     cursor: pointer;
     position: relative;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-size: 21px;
 }
 
@@ -25865,16 +25865,16 @@ h4.nbs.slick-disabled a {
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
-    -webkit-box-shadow: 0 0 0 1em #dc0003 inset;
-    box-shadow: 0 0 0 1em #dc0003 inset;
+    -webkit-box-shadow: 0 0 0 1em #2d1a97 inset;
+    box-shadow: 0 0 0 1em #2d1a97 inset;
     color: #fff;
     font-size: 32px;
 }
 
 .tabsVertical .tabAccordionTitle:hover:before {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset;
-    box-shadow: 0 0 0 1px #dc0003 inset;
-    color: #dc0003;
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
+    box-shadow: 0 0 0 1px #2d1a97 inset;
+    color: #2d1a97;
 }
 
 .tabsVertical .tabAccordionTitle.on:before {
@@ -26188,7 +26188,7 @@ h4.nbs.slick-disabled a {
 
 .btLatestPostsNav ul li a {
     display: block;
-    border: 2px solid #dc0003;
+    border: 2px solid #2d1a97;
 }
 
 .btLatestPostsNav ul li.active {
@@ -26293,7 +26293,7 @@ h4.nbs.slick-disabled a {
 
 /* Visualizer plugin support */
 .btVisualizer {
-    font-family: Roboto Slab;
+    font-family: forte Slab;
 }
 
 /* Contact form 7 support */
@@ -26302,7 +26302,7 @@ form.wpcf7-form .wpcf7-submit {
     display: inline-block;
     margin: 0;
     padding: .8em 3.2em;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     border: none;
     font-size: .8125em;
     line-height: 1;
@@ -26331,7 +26331,7 @@ form.wpcf7-form .wpcf7-submit {
 .btLightSkin .btDarkSkin form.wpcf7-form .wpcf7-submit,
 .btDarkSkin.btLightSkin .btDarkSkin form.wpcf7-form .wpcf7-submit {
     color: #fff;
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .btLightSkin form.wpcf7-form .wpcf7-submit:hover,
@@ -26401,7 +26401,7 @@ form.wpcf7-form .ajax-loader {
 .star-rating span:before {
     content: "\f005\f005\f005\f005\f005";
     letter-spacing: 1px;
-    color: #dc0003;
+    color: #2d1a97;
     position: absolute;
     left: 0;
 }
@@ -26622,8 +26622,8 @@ button.mfp-close:hover {
     height: 2.461em;
     font-size: .8125em;
     display: block;
-    -webkit-box-shadow: 0 2.461em 0 #dc0003 inset;
-    box-shadow: 0 2.461em 0 #dc0003 inset;
+    -webkit-box-shadow: 0 2.461em 0 #2d1a97 inset;
+    box-shadow: 0 2.461em 0 #2d1a97 inset;
     position: relative;
     z-index: 10;
 }
@@ -26655,8 +26655,8 @@ button.mfp-close:hover {
 .btBoxedPage .btTickerHolder {
     max-width: 1386px;
     margin: 0 auto;
-    -webkit-box-shadow: 0 2.461em 0 #dc0003 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
-    box-shadow: 0 2.461em 0 #dc0003 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
+    -webkit-box-shadow: 0 2.461em 0 #2d1a97 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
+    box-shadow: 0 2.461em 0 #2d1a97 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
 }
 
 .btStickyHeaderActive .btTickerHolder {
@@ -26677,7 +26677,7 @@ button.mfp-close:hover {
     float: left;
     color: #fff;
     margin: 0 10px 0 0;
-    font-family: Roboto Slab;
+    font-family: forte Slab;
     font-size: 1.1em;
 }
 
@@ -26694,7 +26694,7 @@ button.mfp-close:hover {
     overflow: hidden;
     color: #fff;
     display: block;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     position: relative;
 }
 
@@ -26811,19 +26811,19 @@ button.mfp-close:hover {
 
 .btAccentDarkHeader .btTickerHolder .btTickerTitle,
 .btAccentDarkHeader .btTickerHolder .btTicker {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin.btAccentDarkHeader .btTickerHolder .btTickerTitle li a,
 .btDarkSkin.btAccentDarkHeader .btTickerHolder .btTickerTitle li a,
 .btLightSkin.btAccentDarkHeader .btTickerHolder .btTicker li a,
 .btDarkSkin.btAccentDarkHeader .btTickerHolder .btTicker li a {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btAccentDarkHeader .btTickerHolder .btTickerTitle li a:after,
 .btAccentDarkHeader .btTickerHolder .btTicker li a:after {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 .btBoxedPage.btAccentDarkHeader .btTickerHolder {
@@ -26930,7 +26930,7 @@ button.mfp-close:hover {
 }
 
 .btCategoryTitle .btCatFilter .btCatFilterItem:hover a {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .btLightSkin .btCategoryTitle .btCatFilter,
@@ -27461,7 +27461,7 @@ body.btPageTransitions .btSiteFooter {
     text-align: center;
     list-style: none;
     display: none;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .btDarkSkin .btAnimNav li.btAnimNavDot,
@@ -27695,7 +27695,7 @@ body.btPageTransitions .btSiteFooter {
 
 .headline b.animate.animated {
     opacity: 1;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .headline i.animate {
@@ -27728,7 +27728,7 @@ body.btPageTransitions .btSiteFooter {
 .headline em.animate {
     font-weight: 400;
     font-style: normal;
-    font-family: Roboto;
+    font-family: forte;
     font-style: italic;
 }
 
@@ -31558,7 +31558,7 @@ p.demo_store {
     font-size: 1em;
     padding: 1em 0;
     text-align: center;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
     z-index: 99998;
     -webkit-box-shadow: 0 1px 1em rgba(0, 0, 0, .2);
@@ -31654,7 +31654,7 @@ p.demo_store a {
 .woocommerce .woocommerce-message a:not(.button),
 .woocommerce-page .woocommerce-info a:not(.button),
 .woocommerce-page .woocommerce-message a:not(.button) {
-    color: #dc0003;
+    color: #2d1a97;
     text-decoration: underline;
 }
 
@@ -31712,7 +31712,7 @@ p.demo_store a {
 .woocommerce-page .woocommerce-message:before,
 .woocommerce-page .woocommerce-info:before {
     content: "\e647";
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce .woocommerce-error:before,
@@ -31795,7 +31795,7 @@ p.demo_store a {
     border: 2px solid transparent;
     color: #fff;
     background-color: #616161;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
     transition: all 300ms ease;
@@ -31885,14 +31885,14 @@ p.demo_store a {
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
     transition: all 300ms ease;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
 }
 
 .woocommerce a.button.checkout,
 .woocommerce input.button.checkout,
 .woocommerce-page a.button.checkout,
 .woocommerce-page input.button.checkout {
-    background-color: #dc0003;
+    background-color: #2d1a97;
 }
 
 .woocommerce a.button.checkout:hover,
@@ -31940,12 +31940,12 @@ p.demo_store a {
     float: left;
     margin: -.05em 0 0 -1.2em;
     font: normal 2em/1 Icon7Stroke;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce form.login p.lost_password a:hover,
 .woocommerce-page form.login p.lost_password a:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce input.button[name="register"],
@@ -31970,7 +31970,7 @@ p.demo_store a {
     height: 1.7em;
     margin: -.85em -.85em 0 0;
     border-radius: 50%;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
 }
 
@@ -32051,7 +32051,7 @@ p.demo_store a {
 .woocommerce form .form-row .select2-container,
 .woocommerce-page form .form-row .select2-container {
     line-height: 1;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     font-size: .8em;
     line-height: 2.5em;
 }
@@ -32153,7 +32153,7 @@ p.demo_store a {
     left: auto;
     right: 20px;
     z-index: 1;
-    background: #dc0003;
+    background: #2d1a97;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.1625em;
@@ -32193,7 +32193,7 @@ p.demo_store a {
 .woocommerce-page div.product form.cart .single_add_to_cart_button {
     vertical-align: middle;
     float: left;
-    background: #dc0003;
+    background: #2d1a97;
 }
 
 .rtl.woocommerce div.product form.cart .single_add_to_cart_button,
@@ -32226,7 +32226,7 @@ p.demo_store a {
     font-size: 1.25em;
     line-height: 1;
     margin: .5em 0;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
 }
 
 .woocommerce div.product .entry-summary p.price,
@@ -32267,7 +32267,7 @@ p.demo_store a {
 
 .woocommerce div.product .stock,
 .woocommerce-page div.product .stock {
-    color: #dc0003;
+    color: #2d1a97;
     font-weight: 600;
 }
 
@@ -32425,7 +32425,7 @@ p.demo_store a {
 
 .woocommerce div.product a.reset_variations:hover,
 .woocommerce-page div.product a.reset_variations:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce div.product.product-type-grouped .single_add_to_cart_button,
@@ -32444,7 +32444,7 @@ p.demo_store a {
     bottom: -2em;
     right: 0;
     left: 0;
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     font-size: .7em;
     text-transform: uppercase;
     padding: 0 15px;
@@ -32573,7 +32573,7 @@ p.demo_store a {
     display: block;
     font-weight: 600;
     margin-bottom: 1em;
-    font-family: "Roboto Condensed";
+    font-family: "forte Condensed";
 }
 
 .woocommerce .products ul li.product .price del,
@@ -32684,7 +32684,7 @@ p.demo_store a {
     height: 1.7em;
     display: block;
     border-radius: 50%;
-    background: #dc0003;
+    background: #2d1a97;
     color: #fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -32806,7 +32806,7 @@ p.demo_store a {
 .woocommerce p.stars a[class^="star-"]:hover:after,
 .woocommerce-page p.stars a[class^="star-"].active:after,
 .woocommerce-page p.stars a[class^="star-"]:hover:after {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce p.stars a.star-1,
@@ -32995,7 +32995,7 @@ p.demo_store a {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #dc0003;
+    color: #2d1a97;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -33020,7 +33020,7 @@ p.demo_store a {
 .woocommerce .comment-form label .required,
 .woocommerce-page .comment-form label .required {
     font-weight: 900;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce .comment-form .form-submit,
@@ -33031,7 +33031,7 @@ p.demo_store a {
 .woocommerce .comment-form .form-submit input[type="submit"],
 .woocommerce-page .comment-form .form-submit input[type="submit"] {
     width: auto;
-    background: #dc0003;
+    background: #2d1a97;
 }
 
 .woocommerce .comment-form .form-submit input[type="submit"]:hover,
@@ -33085,7 +33085,7 @@ p.demo_store a {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #dc0003;
+    color: #2d1a97;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -33101,7 +33101,7 @@ p.demo_store a {
 
 .woocommerce .woocommerce-noreviews,
 .woocommerce-page .woocommerce-noreviews {
-    font-family: Roboto Condensed;
+    font-family: forte Condensed;
     margin: 2em 0;
     text-align: center;
     text-transform: uppercase;
@@ -33328,14 +33328,14 @@ p.demo_store a {
     text-align: center;
     padding: 0;
     width: 1.5em;
-    color: #dc0003;
+    color: #2d1a97;
     background-color: transparent;
-    border: 1px solid #dc0003;
+    border: 1px solid #2d1a97;
     border-radius: 50%;
 }
 
 .woocommerce-cart table.cart td.product-remove a.remove:hover {
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
 }
 
@@ -33369,7 +33369,7 @@ p.demo_store a {
 }
 
 .woocommerce-cart .cart_totals .discount td {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .woocommerce-cart tr.order-total span.amount {
@@ -33453,7 +33453,7 @@ p.demo_store a {
     padding: 0 0 0 22px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #dc0003;
+    color: #2d1a97;
     margin: 10px 0 0 5px;
 }
 
@@ -33463,7 +33463,7 @@ p.demo_store a {
     display: block;
     float: left;
     margin: -5px 0 0 -22px;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 /* Columns */
@@ -33707,7 +33707,7 @@ p.demo_store a {
 .btDarkSkin.woocommerce-page .product .headline a:hover,
 .btLightSkin .btDarkSkin.woocommerce-page .product .headline a:hover,
 .btDarkSkin.btLightSkin .btDarkSkin.woocommerce-page .product .headline a:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btDarkSkin div.product .woocommerce-product-rating,
@@ -33880,7 +33880,7 @@ p.demo_store a {
     clear: none;
     cursor: pointer;
     position: relative;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
 }
 
 .rtl .woocommerce-MyAccount-navigation ul li {
@@ -33899,7 +33899,7 @@ p.demo_store a {
 
 .woocommerce-MyAccount-navigation ul li a:hover,
 .woocommerce-MyAccount-navigation ul li span:hover {
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 .btLightSkin .woocommerce-MyAccount-navigation ul li.on a,
@@ -33988,7 +33988,7 @@ p.demo_store a {
     -webkit-transition: all 400ms ease;
     -moz-transition: all 400ms ease;
     transition: all 400ms ease;
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
 }
 
 .btQuoteBooking .btTotalNextWrapper:after {
@@ -34015,8 +34015,8 @@ p.demo_store a {
     font-family: inherit;
     margin: 0 0 0 30px;
     line-height: 2.25;
-    border: #dc0003 2px solid;
-    color: #dc0003;
+    border: #2d1a97 2px solid;
+    color: #2d1a97;
     text-transform: uppercase;
     font-weight: 900;
     display: inline-block;
@@ -34053,7 +34053,7 @@ p.demo_store a {
 
 .btQuoteBooking .btContactNext:hover,
 .btQuoteBooking .btContactNext:active {
-    background-color: #dc0003 !important;
+    background-color: #2d1a97 !important;
     color: #fff !important;
 }
 
@@ -34116,8 +34116,8 @@ p.demo_store a {
 }
 
 .btQuoteBooking .btQuoteSwitch:hover {
-    -webkit-box-shadow: 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btQuoteSwitch .btQuoteSwitchInner {
@@ -34143,7 +34143,7 @@ p.demo_store a {
 
 .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner {
     margin-left: 38px;
-    background: #dc0003;
+    background: #2d1a97;
 }
 
 .btQuoteBooking .btQuoteItemInput {
@@ -34202,8 +34202,8 @@ p.demo_store a {
     -webkit-transition: all 380ms ease;
     -moz-transition: all 380ms ease;
     transition: all 380ms ease;
-    -webkit-box-shadow: 5px 0 0 #dc0003 inset, 0 2px 10px rgba(0, 0, 0, .2);
-    box-shadow: 5px 0 0 #dc0003 inset, 0 2px 10px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 5px 0 0 #2d1a97 inset, 0 2px 10px rgba(0, 0, 0, .2);
+    box-shadow: 5px 0 0 #2d1a97 inset, 0 2px 10px rgba(0, 0, 0, .2);
     min-height: 38px;
 }
 
@@ -34288,7 +34288,7 @@ p.demo_store a {
     height: 38px;
     -ms-touch-action: none;
     touch-action: none;
-    background: #dc0003;
+    background: #2d1a97;
     cursor: w-resize;
     cursor: -webkit-grab;
     cursor: -moz-grab;
@@ -34391,7 +34391,7 @@ p.demo_store a {
     padding: 0;
     text-align: right;
     color: #FFF;
-    background: #dc0003;
+    background: #2d1a97;
     line-height: 1.8;
     display: block;
     width: 100%;
@@ -34461,45 +34461,45 @@ p.demo_store a {
 /* Error fields validation */
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea {
-    border: 1px solid #dc0003;
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset;
-    box-shadow: 0 0 0 1px #dc0003 inset;
+    border: 1px solid #2d1a97;
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
+    box-shadow: 0 0 0 1px #2d1a97 inset;
     -webkit-transition: all 380ms ease;
     -moz-transition: all 380ms ease;
     transition: all 380ms ease;
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadius .ddTitleText {
-    border: 1px solid #dc0003;
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset;
-    box-shadow: 0 0 0 1px #dc0003 inset;
+    border: 1px solid #2d1a97;
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
+    box-shadow: 0 0 0 1px #2d1a97 inset;
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input:hover,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea:hover {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset, 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #dc0003 inset, 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadius:hover .ddTitleText {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset, 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #dc0003 inset, 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input:focus,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea:focus {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset, 5px 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #dc0003 inset, 5px 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadiusTp .ddTitleText {
-    -webkit-box-shadow: 0 0 0 1px #dc0003 inset, 5px 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #dc0003 inset, 5px 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 /* Submit query message */
 .btQuoteBooking .btSubmitMessage {
-    color: #dc0003;
+    color: #2d1a97;
     font-weight: 600;
     text-align: center;
     line-height: 30px;
@@ -34521,7 +34521,7 @@ p.demo_store a {
     display: block;
     padding: 10px;
     overflow: hidden;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #FFF;
 }
 
@@ -34850,15 +34850,15 @@ p.demo_store a {
 
 /* Submit button */
 .btQuoteBooking .btContactSubmit {
-    font-family: "Roboto Slab";
+    font-family: "forte Slab";
     cursor: pointer;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     color: #fff;
     padding: .5em 2em;
     font-weight: 700;
     font-size: 1.1em;
     opacity: 1;
-    border: 1px solid #dc0003;
+    border: 1px solid #2d1a97;
     -webkit-filter: alpha(opacity=100);
     filter: alpha(opacity=100);
     -webkit-transition: all 300ms ease;
@@ -34875,7 +34875,7 @@ p.demo_store a {
 /* Submit hover state */
 .btQuoteBooking .btContactSubmit:hover {
     background-color: transparent;
-    color: #dc0003;
+    color: #2d1a97;
 }
 
 /* Tablets screen */
@@ -35029,8 +35029,8 @@ p.demo_store a {
 }
 
 .btPayPalButton:hover {
-    -webkit-box-shadow: 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 #dc0003 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btPayPalForm {
@@ -36876,7 +36876,7 @@ body.rtl {
     background-color: rgba(0, 0, 0, .9);
     font-family: FontAwesome;
     content: "\f013";
-    color: #dc0003;
+    color: #2d1a97;
     text-align: center;
     cursor: pointer;
     -webkit-transform: translateX(0);
@@ -36890,7 +36890,7 @@ body.rtl {
 
 #btSettingsPanel h4 {
     font-weight: 700;
-    background-color: #dc0003;
+    background-color: #2d1a97;
     padding: 1em 1.5em;
     line-height: 1em;
     font-size: 1.3em;
@@ -36913,7 +36913,7 @@ body.rtl {
 
 #btSettingsPanel .btSettingsPanelRow.btAccentColorRow .trigger,
 #btSettingsPanel .btSettingsPanelRow.btAccentColorRow select {
-    border-color: #dc0003;
+    border-color: #2d1a97;
 }
 
 #btSettingsPanel .btSettingsPanelRow.btAlternateColorRow {
@@ -37043,7 +37043,7 @@ em {
 }
 
 .wp-block-button__link:hover {
-    color: #dc0003 !important;
+    color: #2d1a97 !important;
 }
 
 .wp-block-button {
@@ -37076,4 +37076,13 @@ em {
     margin: 0;
 }
 
-/*# sourceMappingURL=style.css.map *
+.logo {
+    margin-top: 5px !important;
+    /* margin: 0 auto !important; */
+    text-align: center !important;
+    padding: 5px !important;
+}
+
+#h4 {
+    text-size: 100px !important;
+}
