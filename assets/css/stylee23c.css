@@ -574,7 +574,7 @@ html a:hover,
 .btLightSkin .btDarkSkin a:hover,
 .btDarkSkin.btLightSkin .btDarkSkin a:hover {
     text-decoration: none;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .btText a,
@@ -583,7 +583,7 @@ html a:hover,
 .btDarkSkin .btText a,
 .btLightSkin .btDarkSkin .btText a,
 .btDarkSkin.btLightSkin .btDarkSkin .btText a {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .btText a:hover,
@@ -866,7 +866,7 @@ h6 {
 
 .btContentHolder table thead th {
     font-weight: 700;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: white;
     font-family: forte Slab;
     -webkit-box-shadow: 0 -3px 0 #760002;
@@ -1804,7 +1804,7 @@ h6 {
 
 /* Accent color background helper class */
 .btAccentColorBackground {
-    background-color: #2d1a97 !important;
+    background-color: #694fff !important;
 }
 
 .btAccentColorBackground .headline b.animate.animated {
@@ -2432,7 +2432,7 @@ body:not(.btHalfPage) .rowItem.animate:nth-child(11) {
 .mainHeader {
     width: 100%;
     position: absolute;
-    background-color: #2d1a97;
+    background-color: #694fff;
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
@@ -2442,7 +2442,7 @@ body:not(.btHalfPage) .rowItem.animate:nth-child(11) {
 
 .btMenuVertical.btAccentDarkHeader .mainHeader,
 .btMenuVertical.btLightAccentHeader .mainHeader {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btMenuVertical.btAccentDarkHeader .mainHeader .btVerticalMenuTrigger .btIco.btIcoDefaultType .btIcoHolder:before,
@@ -2631,7 +2631,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .menuPort nav ul ul li>a:hover,
 .menuPort nav ul ul li>.bt_mega_menu_title:hover {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .menuPort nav ul ul li.on {
@@ -2838,11 +2838,11 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .btHorizontalMenuTrigger:hover:before,
 .btHorizontalMenuTrigger:hover:after {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 .btHorizontalMenuTrigger:hover .btIco {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 .rtl .btShowMenu .btHorizontalMenuTrigger {
@@ -2886,7 +2886,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btMenuHorizontal .menuPort nav>ul>li.current-page-ancestor>.bt_mega_menu_title,
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-item>.bt_mega_menu_title {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 /* Skins */
@@ -2936,7 +2936,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
     top: 50%;
     left: 0;
     height: 1px;
-    background-color: #2d1a97;
+    background-color: #694fff;
     width: 20px;
     -webkit-transform: scaleX(0);
     -moz-transform: scaleX(0);
@@ -2983,7 +2983,7 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 
 .btMenuHorizontal .menuPort ul ul li.menu-item-has-children>a:hover:after {
     right: .5em;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btMenuHorizontal .menuPort ul ul li.current-menu-item>a:before {
@@ -2996,8 +2996,8 @@ body.btAccentLightHeader.btBoxedPage.btBelowMenu .mainHeader:not(.gutter) .port 
 }
 
 .btMenuHorizontal .menuPort ul ul li.current-menu-item>a:hover:before {
-    background-color: #2d1a97;
-    border-color: #2d1a97;
+    background-color: #694fff;
+    border-color: #694fff;
     -webkit-transform: scaleX(1);
     -moz-transform: scaleX(1);
     -ms-transform: scaleX(1);
@@ -4390,14 +4390,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentLightHeader.btMenuHorizontal .btBelowLogoArea .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -4414,7 +4414,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .topBar .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btAccentLightHeader.btMenuHorizontal .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -4467,13 +4467,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentLightHeader.btMenuHorizontal .topTools .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentLightHeader.btMenuHorizontal .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -4488,7 +4488,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 /* Accent light */
@@ -4501,7 +4501,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .topBar,
 .btAccentLightHeader.btMenuHorizontal.btStickyHeaderActive .btBelowLogoArea,
 .btAccentLightHeader.btMenuHorizontal.btStickyHeaderActive .topBar {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .btBelowLogoArea:before,
@@ -4515,7 +4515,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
     bottom: 0;
     left: -2000em;
     right: -2000em;
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btAccentLightHeader.btMenuHorizontal:not(.btBelowMenu) .btBelowLogoArea:after,
@@ -4534,7 +4534,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .btBelowLogoArea,
 .btAccentLightHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .topBar {
-    background-color: #2d1a97;
+    background-color: #694fff;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -4597,7 +4597,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .topBar .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btLightSkin.btLightHeader.btMenuHorizontal.btMenuBelowLogo .btBelowLogoArea .menuPort>nav>ul>li.on>a,
@@ -4622,21 +4622,21 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    color: #694fff;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4663,14 +4663,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:before {
@@ -4681,8 +4681,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
     color: #fff !important;
 }
 
@@ -4708,7 +4708,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal .topTools a:hover.btIconWidget .btIconWidgetContent {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -4716,7 +4716,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightHeader.btMenuHorizontal .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4727,8 +4727,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightHeader.btMenuHorizontal .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:before {
@@ -4739,8 +4739,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightHeader.btMenuHorizontal .topTools .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
     color: #fff !important;
 }
 
@@ -4858,7 +4858,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a:hover.btIconWidget .btIconWidgetContent {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -4866,7 +4866,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4877,8 +4877,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:before {
@@ -4889,8 +4889,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
     color: #fff !important;
 }
 
@@ -4913,7 +4913,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btLightSkin.btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .menuPort>nav>ul>li.on>a,
@@ -4934,21 +4934,21 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    color: #694fff;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -4975,14 +4975,14 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:before {
@@ -4993,8 +4993,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btMenuBelowLogo .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
     color: #fff !important;
 }
 
@@ -5048,13 +5048,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -5069,12 +5069,12 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btAccentDarkHeader.btMenuHorizontal:not(.btMenuBelowLogo) .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btAccentDarkHeader.btMenuHorizontal.btStickyHeaderActive .mainHeader {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btAccentDarkHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader .btBelowLogoArea,
@@ -5127,7 +5127,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btAccentDarkHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #2d1a97;
+    background-color: #694fff;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5232,13 +5232,13 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
     -webkit-box-shadow: 0 0 0 1.5em #fff inset !important;
     box-shadow: 0 0 0 1.5em #fff inset !important;
 }
@@ -5253,12 +5253,12 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btLightAccentHeader.btMenuHorizontal:not(.btMenuBelowLogo):not(.btStickyHeaderActive) .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
     -webkit-box-shadow: 0 0 0 1.5em #fff inset;
     box-shadow: 0 0 0 1.5em #fff inset;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader,
 .btLightAccentHeader.btMenuHorizontal.btStickyHeaderActive .mainHeader {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btLightAccentHeader.btMenuHorizontal:not(.btBelowMenu) .mainHeader .btBelowLogoArea,
@@ -5301,7 +5301,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btLightAccentHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #2d1a97;
+    background-color: #694fff;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5345,7 +5345,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-menu-ancestor>.bt_mega_menu_title,
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-page-ancestor>a,
 .btDarkSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.current-page-ancestor>.bt_mega_menu_title {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btLightSkin.btBlackHeader.btMenuHorizontal .mainHeader .menuPort>nav>ul>li.on>a,
@@ -5378,7 +5378,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a:hover.btIconWidget .btIconWidgetContent,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a:hover.btIconWidget .btIconWidgetContent {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -5397,9 +5397,9 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    color: #694fff;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -5412,8 +5412,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
@@ -5421,22 +5421,22 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content.on .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .btIco:hover .btIcoHolder:before {
     color: #fff !important;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .widget_shopping_cart .widget_shopping_cart_content .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:before,
@@ -5449,8 +5449,8 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 
 .btBlackHeader.btMenuHorizontal .mainHeader .topTools .btSearch .btIco a:hover:before,
 .btBlackHeader.btMenuHorizontal .mainHeader .topBarInMenu .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset !important;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset !important;
+    box-shadow: 0 0 0 1.5em #694fff inset !important;
     color: #fff !important;
 }
 
@@ -5497,7 +5497,7 @@ html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuW
 }
 
 .btBlackHeader.btMenuHorizontal.btBelowMenu:not(.btStickyHeaderActive) .mainHeader .port .btLogoArea {
-    background-color: #2d1a97;
+    background-color: #694fff;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -5873,11 +5873,11 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 
 .btVerticalMenuTrigger:hover:before,
 .btVerticalMenuTrigger:hover:after {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 .btVerticalMenuTrigger:hover .btIco {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 .btMenuVerticalOn.rtl .btVerticalMenuTrigger {
@@ -5973,7 +5973,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 
 .btAccentDarkHeader.btMenuVertical>.menuPort .logo,
 .btLightAccentHeader.btMenuVertical>.menuPort .logo {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btBlackHeader.btMenuVertical>.menuPort .logo {
@@ -6205,7 +6205,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
     }
 
     .btMenuVerticalOn .btVerticalMenuTrigger .btIco a:before {
-        color: #2d1a97 !important;
+        color: #694fff !important;
     }
 
     .btMenuVertical .btLogoArea .btVerticalMenuTrigger {
@@ -6325,7 +6325,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell {
-    border: 0 solid #2d1a97;
+    border: 0 solid #694fff;
 }
 
 .btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell .widget_bt_banner_widget {
@@ -6502,7 +6502,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btSearchInner.btFromTopBox .btSearchInnerClose .btIco a.btIcoHolder {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -6635,7 +6635,7 @@ body.btMenuHorizontal.btHideMenu .menuPort {
 }
 
 .btSearchInner.btFromTopBox button:hover:before {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: color 300ms ease;
     -moz-transition: color 300ms ease;
     transition: color 300ms ease;
@@ -6984,7 +6984,7 @@ html[data-useragent*='MSIE 10.0'] body.btMenuHorizontal .menuPort ul>li.on>ul>li
 .btDarkSkin .btSiteFooter .port:before,
 .btLightSkin .btDarkSkin .btSiteFooter .port:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btSiteFooter .port:before {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 section footer,
@@ -6999,7 +6999,7 @@ article footer {
 .btLightSkin .btDarkSkin .btFooterBelow,
 .btDarkSkin.btLightSkin .btDarkSkin .btFooterBelow {
     font-size: .8125em;
-    border-bottom: #2d1a97 4px solid;
+    border-bottom: #694fff 4px solid;
 }
 
 .btLightSkin .btFooterBelow ul,
@@ -7069,7 +7069,7 @@ article footer {
 .btDarkSkin.btLightSkin .btDarkSkin .btFooterBelow ul li a:after {
     display: block;
     clear: none;
-    border-bottom: 1px solid #2d1a97;
+    border-bottom: 1px solid #694fff;
     content: "";
     -webkit-transform: scaleX(0);
     -moz-transform: scaleX(0);
@@ -7413,7 +7413,7 @@ article footer {
     display: block;
     padding: 30px;
     margin: 0;
-    background-color: #2d1a97 !important;
+    background-color: #694fff !important;
     font-weight: 300;
     padding: 45px;
 }
@@ -7619,7 +7619,7 @@ article footer {
 }
 
 .btArticleListItem .headline a:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btArticleListItem.btListSwap:nth-child(odd) .btArticleListBody .boldRow .rowItem {
@@ -7730,7 +7730,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #2d1a97;
+    color: #694fff;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -7901,7 +7901,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
 }
 
 .btCommentsBox .pcItem label .required {
-    color: #2d1a97;
+    color: #694fff;
     font-weight: 900;
 }
 
@@ -8128,7 +8128,7 @@ body:not(.woocommerce) .btCommentsBox .form-submit {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #2d1a97;
+    color: #694fff;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -8306,7 +8306,7 @@ a#cancel-comment-reply-link:hover {
     color: #FFF;
     width: auto;
     height: 35px;
-    background: #2d1a97;
+    background: #694fff;
     border: 0;
     cursor: pointer;
     padding: .675em .923em;
@@ -8467,7 +8467,7 @@ a#cancel-comment-reply-link:hover {
     border-radius: 50%;
     width: 1.6275em;
     text-align: center;
-    background: #2d1a97;
+    background: #694fff;
     color: #fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -8710,7 +8710,7 @@ span.enhanced {
 span.btHighlight {
     display: inline-block;
     padding: .06em .5em;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
 }
 
@@ -9520,8 +9520,8 @@ body.rtl .btArticleViewsCount:before {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
     position: absolute;
     z-index: 1;
     opacity: .75;
@@ -9595,8 +9595,8 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSinglePostTemplate:hover .btPostImageHolder .btSinglePostTopMetaData .btSinglePostFormat:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btSinglePostTemplate:hover .btPostImageHolder .btSinglePostTopMetaData .btSinglePostFormat:after {
@@ -10005,7 +10005,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSingleHighlight.topImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .backgroundImagePosition.btSinglePostTemplate,
@@ -10191,7 +10191,7 @@ body.rtl .btArticleViewsCount:before {
 
 .backgroundImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .backgroundImagePosition.smallTemplate.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .backgroundImagePosition.btSinglePostTemplate:hover .btSinglePostBackgroundImage,
@@ -10390,7 +10390,7 @@ body.rtl .btArticleViewsCount:before {
 }
 
 .btSingleHighlight.no-imageImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .largeTemplate.btSinglePostTemplate {
@@ -11211,7 +11211,7 @@ body.rtl .btArticleViewsCount:before {
 .btSingleHighlight.rightImagePosition.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .btSingleHighlight.sideImagePosition.text-left.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before,
 .btSingleHighlight.sideImagePosition.text-right.btSinglePostTemplate .btSinglePostBottomData .star-rating span:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .rightImagePosition.btSinglePostTemplate,
@@ -11273,7 +11273,7 @@ body.rtl .btArticleViewsCount:before {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #2d1a97;
+    color: #694fff;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -12426,7 +12426,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     clear: both;
     width: 3em;
     display: block;
-    border-bottom: 3px solid #2d1a97;
+    border-bottom: 3px solid #694fff;
     margin: .5em 0 .7em;
 }
 
@@ -12517,7 +12517,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     width: 30px;
     content: "";
-    border-top: 1px solid #2d1a97;
+    border-top: 1px solid #694fff;
     position: absolute;
     left: -30px;
     top: 50%;
@@ -16605,7 +16605,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox ul li.current-menu-item>a,
 .btCustomMenu ul li.current-menu-item>a,
 .btTopBox ul li.current-menu-item>a {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btSidebar .btBox ul li:first-child,
@@ -16693,7 +16693,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox .ppTxt .header .headline a:hover,
 .btCustomMenu .ppTxt .header .headline a:hover,
 .btTopBox .ppTxt .header .headline a:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btBox .ppTxt .header .btSuperTitle,
@@ -16812,7 +16812,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .widget_calendar table caption {
-    background: #2d1a97;
+    background: #694fff;
     color: #FFF;
     font-family: "forte Slab";
     font-weight: 700;
@@ -16880,9 +16880,9 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     -webkit-transition: 300ms ease box-shadow, 300ms ease color;
     -moz-transition: 300ms ease box-shadow, 300ms ease color;
     transition: 300ms ease box-shadow, 300ms ease color;
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
-    box-shadow: 0 0 0 1px #2d1a97 inset;
-    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 1px #694fff inset;
+    box-shadow: 0 0 0 1px #694fff inset;
+    color: #694fff;
     margin-top: -11.5px;
 }
 
@@ -16897,8 +16897,8 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .btBox.shortcode_widget_categories ul li a:hover>span,
 .btBox.widget_product_categories ul li a:hover>span {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff;
 }
 
@@ -17099,7 +17099,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     width: 30px;
     content: "";
-    border-top: 1px solid #2d1a97;
+    border-top: 1px solid #694fff;
     position: absolute;
     left: 0;
     top: 50%;
@@ -17135,7 +17135,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .fancy-select ul.options li:hover {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -17152,7 +17152,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     -moz-transform: scaleX(1);
     -ms-transform: scaleX(1);
     transform: scaleX(1);
-    border-color: #2d1a97 !important;
+    border-color: #694fff !important;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -17274,7 +17274,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     width: 1.5em;
     vertical-align: middle;
     color: #fff;
-    background-color: #2d1a97;
+    background-color: #694fff;
     border-radius: 50%;
 }
 
@@ -17324,15 +17324,15 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .menuPort .widget_shopping_cart .btIco .btIcoHolder:before,
 .topTools .widget_shopping_cart .btIco .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .btIco .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .menuPort .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .topTools .widget_shopping_cart .btIco:hover .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .btIco:hover .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff !important;
 }
 
@@ -17466,7 +17466,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     text-align: center;
     margin-bottom: 1em;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
     cursor: pointer;
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .35);
@@ -17543,8 +17543,8 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 .menuPort .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before,
 .topTools .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before,
 .topBarInLogoArea .widget_shopping_cart .widget_shopping_cart_content.on .btIco .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff !important;
 }
 
@@ -17605,7 +17605,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     z-index: 2;
     width: 1em;
     height: 1em;
-    background-color: #2d1a97;
+    background-color: #694fff;
     border-radius: 1em;
     cursor: ew-resize;
     outline: 0;
@@ -17922,7 +17922,7 @@ footer .btIconWidget .btIconWidgetContent .btIconWidgetText {
 .btSidebar .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:hover:before,
 footer .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 footer .btIconWidget.btAccentIconWidget .btIconWidgetIcon .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:hover:before {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btSidebar .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetTitle,
@@ -17987,7 +17987,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 .btLightSkin footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btDarkSkin .btLightSkin footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btLightSkin .btDarkSkin .btLightSkin footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
-    color: #181818 !important;
+    color: #fff !important;
 }
 
 .btDarkSkin .btSidebar a.btIconWidget:hover .btIconWidgetContent .btIconWidgetTitle,
@@ -18017,7 +18017,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover,
 .btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover,
 .btDarkSkin.btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btLightSkin .btSidebar a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetTitle,
@@ -18044,7 +18044,7 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText,
 .btDarkSkin.btLightSkin .btDarkSkin footer a.btIconWidget.btAccentIconWidget:hover .btIconWidgetContent .btIconWidgetText {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btSiteFooterWidgets .btBox.widget_shopping_cart .btCartWidgetIcon,
@@ -18183,14 +18183,14 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuHorizontal .mainHeader span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuHorizontal .mainHeader a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btMenuHorizontal .mainHeader span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuHorizontal .mainHeader a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    color: #694fff;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btMenuHorizontal .mainHeader .btIconWidget.btWidgetWithText,
@@ -18230,15 +18230,15 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuHorizontal.btLightSkin .mainHeader a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
     box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
 }
 
 .btMenuHorizontal.btLightSkin .mainHeader a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btMenuHorizontal.btDarkSkin .mainHeader .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
@@ -18258,8 +18258,8 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuHorizontal.btDarkSkin .mainHeader a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #68A042;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 /* Vertical menu */
@@ -18326,14 +18326,14 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    color: #694fff;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btMenuVertical .menuPort .btWidgetWithText,
@@ -18398,26 +18398,26 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuVertical.btLightSkin a.btIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
     box-shadow: 0 0 0 1.5em rgba(0, 0, 0, .1) inset;
 }
 
 .btMenuVertical.btLightSkin a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btMenuVertical.btLightSkin .btSearch .btIco a:before {
     background: rgba(0, 0, 0, .1);
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #694fff inset;
 }
 
 .btMenuVertical.btLightSkin .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff !important;
 }
 
@@ -18438,8 +18438,8 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 
 .btMenuVertical.btDarkSkin a.btIconWidget.btAccentIconWidget:hover .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
     color: #fff;
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
 }
 
 .btMenuVertical.btDarkSkin .btSearch .btIco a:before {
@@ -18450,8 +18450,8 @@ footer a.btIconWidget:hover .btIconWidgetContent .btIconWidgetText {
 }
 
 .btMenuVertical.btDarkSkin .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff !important;
 }
 
@@ -18617,8 +18617,8 @@ form.woocommerce-product-search button:before {
 .btDarkSkin form.woocommerce-product-search button:hover,
 .btLightSkin .btDarkSkin form.woocommerce-product-search button:hover,
 .btDarkSkin.btLightSkin .btDarkSkin form.woocommerce-product-search button:hover {
-    background: #2d1a97 !important;
-    border-color: #2d1a97 !important;
+    background: #694fff !important;
+    border-color: #694fff !important;
     color: #fff;
 }
 
@@ -18651,7 +18651,7 @@ form.woocommerce-product-search input[type=submit] {
 
 form.woocommerce-product-search button:hover,
 form.woocommerce-product-search input[type=submit]:hover {
-    background: #2d1a97 !important;
+    background: #694fff !important;
     color: #fff !important;
 }
 
@@ -18696,7 +18696,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .topBarInMenu .widget_search button {
     width: 23px;
     height: 23px;
-    background: #2d1a97;
+    background: #694fff;
     border: 0;
     float: right;
     margin: 0;
@@ -18708,7 +18708,7 @@ form.woocommerce-product-search input[type=submit]:hover {
     font-family: FontAwesome;
     content: "\f002";
     display: inline-block;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .topTools .widget_search button:hover,
@@ -18756,8 +18756,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:before {
     background: rgba(0, 0, 0, .1);
-    -webkit-box-shadow: 0 0 0 0 #2d1a97 inset;
-    box-shadow: 0 0 0 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 0 #694fff inset;
+    box-shadow: 0 0 0 0 #4727ff inset;
 }
 
 .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
@@ -18766,8 +18766,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
 .btLightSkin .btDarkSkin .btLightSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff;
 }
 
@@ -18789,8 +18789,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before,
 .btDarkSkin.btLightSkin .btDarkSkin.btMenuHorizontal .topTools .widget_search .btSearch .btIco a:hover:before,
 .btDarkSkin.btLightSkin .btDarkSkin.btMenuHorizontal .topBarInMenu .widget_search .btSearch .btIco a:hover:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #775ffc inset;
     color: #fff;
 }
 
@@ -18952,7 +18952,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 }
 
 .btIcoFilledType.btIcoAccentColor.btIconHexagonShape.btIco .btIcoHolder .hex {
-    fill: #2d1a97;
+    fill: #694fff;
 }
 
 .btIcoFilledType.btIcoAlternateColor.btIconHexagonShape.btIco .btIcoHolder .hex {
@@ -18971,7 +18971,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 .btIcoOutlineType.btIcoAccentColor.btIconHexagonShape.btIco .btIcoHolder .hex {
     fill: transparent;
-    stroke: #2d1a97;
+    stroke: #694fff;
 }
 
 .btIcoOutlineType.btIcoAlternateColor.btIconHexagonShape.btIco .btIcoHolder .hex {
@@ -19013,8 +19013,8 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btLightSkin .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btDarkSkin.btLightSkin .btDarkSkin .btIconHexagonShape.btIcoOutlineType.btIcoAccentColor.btIco:hover .btIcoHolder .hex {
-    fill: #2d1a97;
-    stroke: #2d1a97;
+    fill: #694fff;
+    stroke: #694fff;
 }
 
 .btLightSkin .btIconHexagonShape.btIcoOutlineType.btIcoAlternateColor.btIco:hover .btIcoHolder .hex,
@@ -19044,7 +19044,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btIconHexagonShape.btIcoFilledType.btIcoAccentColor.btIco:hover .btIcoHolder .hex,
 .btDarkSkin.btLightSkin .btDarkSkin .btIconHexagonShape.btIcoFilledType.btIcoAccentColor.btIco:hover .btIcoHolder .hex {
     fill: transparent;
-    stroke: #2d1a97;
+    stroke: #694fff;
 }
 
 /* Hexagonal take */
@@ -19087,25 +19087,25 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 .btIconHexagonShape .btIco.btIcoFilledType .btIcoHolder svg .hex {
     stroke: none;
-    fill: #2d1a97;
+    fill: #694fff;
     stroke-width: 0;
 }
 
 .btIconHexagonShape .btIco.btIcoFilledType:hover .btIcoHolder svg .hex {
-    stroke: #2d1a97;
+    stroke: #694fff;
     fill: transparent;
     stroke-width: 3px;
 }
 
 .btIconHexagonShape .btIco.btIcoOutlineType .btIcoHolder svg .hex {
-    stroke: #2d1a97;
+    stroke: #694fff;
     fill: transparent;
     stroke-width: 3px;
 }
 
 .btIconHexagonShape .btIco.btIcoOutlineType:hover .btIcoHolder svg .hex {
-    stroke: #2d1a97;
-    fill: #2d1a97;
+    stroke: #694fff;
+    fill: #694fff;
     stroke-width: 3px;
 }
 
@@ -19198,16 +19198,16 @@ form.woocommerce-product-search input[type=submit]:hover {
 /* Filled and Outline Accent */
 .btIco.btIcoFilledType.btIcoAccentColor .btIcoHolder:before,
 .btIco.btIcoOutlineType.btIcoAccentColor:hover .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1.5em #2d1a97 inset;
-    box-shadow: 0 0 0 1.5em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1.5em #694fff inset;
+    box-shadow: 0 0 0 1.5em #694fff inset;
     color: #fff;
 }
 
 .btIco.btIcoFilledType.btIcoAccentColor:hover .btIcoHolder:before,
 .btIco.btIcoOutlineType.btIcoAccentColor .btIcoHolder:before {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
-    box-shadow: 0 0 0 1px #2d1a97 inset;
-    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 1px #694fff inset;
+    box-shadow: 0 0 0 1px #694fff inset;
+    color: #694fff;
 }
 
 /* Filled and Outline Alternate */
@@ -19493,7 +19493,7 @@ form.woocommerce-product-search input[type=submit]:hover {
 .btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,
 .btDarkSkin.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .btIco.btIcoDefaultType.btIcoAlternateColor .btIcoHolder:before,
@@ -19785,19 +19785,19 @@ form.woocommerce-product-search input[type=submit]:hover {
 
 /* Icons side text color */
 .btIcoAccentColor:hover span {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .btIcoAccentColor:hover span,
 .btDarkSkin .btLightSkin .btIcoAccentColor:hover span,
 .btLightSkin .btDarkSkin .btLightSkin .btIcoAccentColor:hover span {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btDarkSkin .btIcoAccentColor:hover span,
 .btLightSkin .btDarkSkin .btIcoAccentColor:hover span,
 .btDarkSkin.btLightSkin .btDarkSkin .btIcoAccentColor:hover span {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btIcoAlternateColor:hover span {
@@ -20046,7 +20046,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 /* Button colors */
 /* Accent */
 .btnFilledStyle.btnAccentColor {
-    background-color: #2d1a97;
+    background-color: #694fff;
     border: 2px solid transparent;
 }
 
@@ -20061,7 +20061,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnFilledStyle.btnAccentColor:hover {
     background-color: #760002;
     border: 2px solid transparent;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btnFilledStyle.btnAccentColor:hover span,
@@ -20074,8 +20074,8 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 
 .btnOutlineStyle.btnAccentColor {
     background-color: transparent;
-    border: 2px solid #2d1a97;
-    color: #2d1a97;
+    border: 2px solid #694fff;
+    color: #694fff;
 }
 
 .btnOutlineStyle.btnAccentColor span,
@@ -20083,12 +20083,12 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnOutlineStyle.btnAccentColor a,
 .btnOutlineStyle.btnAccentColor .btIco a:before,
 .btnOutlineStyle.btnAccentColor button {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btnOutlineStyle.btnAccentColor:hover {
-    background-color: #2d1a97;
-    border: 2px solid #2d1a97;
+    background-color: #694fff;
+    border: 2px solid #694fff;
 }
 
 .btnOutlineStyle.btnAccentColor:hover span,
@@ -20104,7 +20104,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
 .btnBorderlessStyle.btnAccentColor a,
 .btnBorderlessStyle.btnAccentColor .btIco a:before,
 .btnBorderlessStyle.btnAccentColor button {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 /* Alternate */
@@ -20817,7 +20817,7 @@ body.rtl .btBtn.btnLeftPosition:not(.btnNoIcon) {
     -ms-transform: translateX(-100%);
     transform: translateX(-100%);
     width: auto;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
 }
 
@@ -22434,7 +22434,7 @@ html.touch .btShowTitle {
 
 .btPriceTable .btPriceTableHeader {
     margin: -1px -1px 0 -1px;
-    background: #2d1a97;
+    background: #694fff;
     padding: 2em;
 }
 
@@ -22746,7 +22746,7 @@ html.touch .btShowTitle {
     width: 5em;
     display: block;
     margin: 0 0 1.4em;
-    border-bottom: 4px solid #2d1a97;
+    border-bottom: 4px solid #694fff;
     float: left;
 }
 
@@ -22820,7 +22820,7 @@ body.rtl .btDash.topDash .btSuperTitle {
     -webkit-flex: 15 1 auto;
     -ms-flex: 15 1 auto;
     flex: 15 1 auto;
-    border-top: 1px solid #2d1a97;
+    border-top: 1px solid #694fff;
 }
 
 .btDash.topDash .btSuperTitle:after {
@@ -23164,7 +23164,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btGridContent .header .btSuperTitle a:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btGridGap-0 .gridItem:after {
@@ -24240,7 +24240,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btCatFilter .btCatFilterItem:hover {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -24251,11 +24251,11 @@ body.rtl .btDash.topDash .btSuperTitle {
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
-    border-bottom-color: #2d1a97 !important;
+    border-bottom-color: #694fff !important;
 }
 
 .btCatFilter .btCatFilterItem.active {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -24263,7 +24263,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .btCatFilter .btCatFilterItem.active b:after {
-    border-bottom-color: #2d1a97 !important;
+    border-bottom-color: #694fff !important;
     width: 100%;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -24278,7 +24278,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 .btCatFilter .btCatFilterItem b:after {
     content: "";
     display: block;
-    border-bottom: 1px solid #2d1a97;
+    border-bottom: 1px solid #694fff;
     bottom: 0;
     left: 0;
     width: 0;
@@ -24903,7 +24903,7 @@ body.rtl .btDash.topDash .btSuperTitle {
 }
 
 .neighboringArticles .nbs a:hover .nbsTitle {
-    color: #2d1a97;
+    color: #694fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
@@ -25631,7 +25631,7 @@ h4.nbs.slick-disabled a {
     position: relative;
     top: 3px;
     margin-right: 3px;
-    color: #2d1a97;
+    color: #694fff;
     clear: both;
 }
 
@@ -25780,7 +25780,7 @@ h4.nbs.slick-disabled a {
 
 .tabsHeader li a:hover,
 .tabsHeader li span:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .tabsHeader li.on a,
@@ -25865,16 +25865,16 @@ h4.nbs.slick-disabled a {
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
     transition: 300ms ease all;
-    -webkit-box-shadow: 0 0 0 1em #2d1a97 inset;
-    box-shadow: 0 0 0 1em #2d1a97 inset;
+    -webkit-box-shadow: 0 0 0 1em #694fff inset;
+    box-shadow: 0 0 0 1em #694fff inset;
     color: #fff;
     font-size: 32px;
 }
 
 .tabsVertical .tabAccordionTitle:hover:before {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
-    box-shadow: 0 0 0 1px #2d1a97 inset;
-    color: #2d1a97;
+    -webkit-box-shadow: 0 0 0 1px #694fff inset;
+    box-shadow: 0 0 0 1px #694fff inset;
+    color: #694fff;
 }
 
 .tabsVertical .tabAccordionTitle.on:before {
@@ -26188,7 +26188,7 @@ h4.nbs.slick-disabled a {
 
 .btLatestPostsNav ul li a {
     display: block;
-    border: 2px solid #2d1a97;
+    border: 2px solid #694fff;
 }
 
 .btLatestPostsNav ul li.active {
@@ -26331,7 +26331,7 @@ form.wpcf7-form .wpcf7-submit {
 .btLightSkin .btDarkSkin form.wpcf7-form .wpcf7-submit,
 .btDarkSkin.btLightSkin .btDarkSkin form.wpcf7-form .wpcf7-submit {
     color: #fff;
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .btLightSkin form.wpcf7-form .wpcf7-submit:hover,
@@ -26401,7 +26401,7 @@ form.wpcf7-form .ajax-loader {
 .star-rating span:before {
     content: "\f005\f005\f005\f005\f005";
     letter-spacing: 1px;
-    color: #2d1a97;
+    color: #694fff;
     position: absolute;
     left: 0;
 }
@@ -26622,8 +26622,8 @@ button.mfp-close:hover {
     height: 2.461em;
     font-size: .8125em;
     display: block;
-    -webkit-box-shadow: 0 2.461em 0 #2d1a97 inset;
-    box-shadow: 0 2.461em 0 #2d1a97 inset;
+    -webkit-box-shadow: 0 2.461em 0 #694fff inset;
+    box-shadow: 0 2.461em 0 #694fff inset;
     position: relative;
     z-index: 10;
 }
@@ -26655,8 +26655,8 @@ button.mfp-close:hover {
 .btBoxedPage .btTickerHolder {
     max-width: 1386px;
     margin: 0 auto;
-    -webkit-box-shadow: 0 2.461em 0 #2d1a97 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
-    box-shadow: 0 2.461em 0 #2d1a97 inset, 0 0 20px 0 rgba(0, 0, 0, .15);
+    -webkit-box-shadow: 0 2.461em 0 #694fff inset, 0 0 20px 0 rgba(0, 0, 0, .15);
+    box-shadow: 0 2.461em 0 #694fff inset, 0 0 20px 0 rgba(0, 0, 0, .15);
 }
 
 .btStickyHeaderActive .btTickerHolder {
@@ -26811,19 +26811,19 @@ button.mfp-close:hover {
 
 .btAccentDarkHeader .btTickerHolder .btTickerTitle,
 .btAccentDarkHeader .btTickerHolder .btTicker {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin.btAccentDarkHeader .btTickerHolder .btTickerTitle li a,
 .btDarkSkin.btAccentDarkHeader .btTickerHolder .btTickerTitle li a,
 .btLightSkin.btAccentDarkHeader .btTickerHolder .btTicker li a,
 .btDarkSkin.btAccentDarkHeader .btTickerHolder .btTicker li a {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btAccentDarkHeader .btTickerHolder .btTickerTitle li a:after,
 .btAccentDarkHeader .btTickerHolder .btTicker li a:after {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 .btBoxedPage.btAccentDarkHeader .btTickerHolder {
@@ -26930,7 +26930,7 @@ button.mfp-close:hover {
 }
 
 .btCategoryTitle .btCatFilter .btCatFilterItem:hover a {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .btLightSkin .btCategoryTitle .btCatFilter,
@@ -27695,7 +27695,7 @@ body.btPageTransitions .btSiteFooter {
 
 .headline b.animate.animated {
     opacity: 1;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .headline i.animate {
@@ -31558,7 +31558,7 @@ p.demo_store {
     font-size: 1em;
     padding: 1em 0;
     text-align: center;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
     z-index: 99998;
     -webkit-box-shadow: 0 1px 1em rgba(0, 0, 0, .2);
@@ -31654,7 +31654,7 @@ p.demo_store a {
 .woocommerce .woocommerce-message a:not(.button),
 .woocommerce-page .woocommerce-info a:not(.button),
 .woocommerce-page .woocommerce-message a:not(.button) {
-    color: #2d1a97;
+    color: #694fff;
     text-decoration: underline;
 }
 
@@ -31712,7 +31712,7 @@ p.demo_store a {
 .woocommerce-page .woocommerce-message:before,
 .woocommerce-page .woocommerce-info:before {
     content: "\e647";
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce .woocommerce-error:before,
@@ -31892,7 +31892,7 @@ p.demo_store a {
 .woocommerce input.button.checkout,
 .woocommerce-page a.button.checkout,
 .woocommerce-page input.button.checkout {
-    background-color: #2d1a97;
+    background-color: #694fff;
 }
 
 .woocommerce a.button.checkout:hover,
@@ -31940,12 +31940,12 @@ p.demo_store a {
     float: left;
     margin: -.05em 0 0 -1.2em;
     font: normal 2em/1 Icon7Stroke;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce form.login p.lost_password a:hover,
 .woocommerce-page form.login p.lost_password a:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce input.button[name="register"],
@@ -31970,7 +31970,7 @@ p.demo_store a {
     height: 1.7em;
     margin: -.85em -.85em 0 0;
     border-radius: 50%;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
 }
 
@@ -32153,7 +32153,7 @@ p.demo_store a {
     left: auto;
     right: 20px;
     z-index: 1;
-    background: #2d1a97;
+    background: #694fff;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.1625em;
@@ -32193,7 +32193,7 @@ p.demo_store a {
 .woocommerce-page div.product form.cart .single_add_to_cart_button {
     vertical-align: middle;
     float: left;
-    background: #2d1a97;
+    background: #694fff;
 }
 
 .rtl.woocommerce div.product form.cart .single_add_to_cart_button,
@@ -32267,7 +32267,7 @@ p.demo_store a {
 
 .woocommerce div.product .stock,
 .woocommerce-page div.product .stock {
-    color: #2d1a97;
+    color: #694fff;
     font-weight: 600;
 }
 
@@ -32425,7 +32425,7 @@ p.demo_store a {
 
 .woocommerce div.product a.reset_variations:hover,
 .woocommerce-page div.product a.reset_variations:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce div.product.product-type-grouped .single_add_to_cart_button,
@@ -32684,7 +32684,7 @@ p.demo_store a {
     height: 1.7em;
     display: block;
     border-radius: 50%;
-    background: #2d1a97;
+    background: #694fff;
     color: #fff;
     -webkit-transition: 300ms ease all;
     -moz-transition: 300ms ease all;
@@ -32806,7 +32806,7 @@ p.demo_store a {
 .woocommerce p.stars a[class^="star-"]:hover:after,
 .woocommerce-page p.stars a[class^="star-"].active:after,
 .woocommerce-page p.stars a[class^="star-"]:hover:after {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce p.stars a.star-1,
@@ -32995,7 +32995,7 @@ p.demo_store a {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #2d1a97;
+    color: #694fff;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -33020,7 +33020,7 @@ p.demo_store a {
 .woocommerce .comment-form label .required,
 .woocommerce-page .comment-form label .required {
     font-weight: 900;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce .comment-form .form-submit,
@@ -33031,7 +33031,7 @@ p.demo_store a {
 .woocommerce .comment-form .form-submit input[type="submit"],
 .woocommerce-page .comment-form .form-submit input[type="submit"] {
     width: auto;
-    background: #2d1a97;
+    background: #694fff;
 }
 
 .woocommerce .comment-form .form-submit input[type="submit"]:hover,
@@ -33085,7 +33085,7 @@ p.demo_store a {
     float: left;
     line-height: 1.366em;
     font-size: 1.066em;
-    color: #2d1a97;
+    color: #694fff;
     width: 52px;
     height: 40px;
     text-align: center;
@@ -33328,14 +33328,14 @@ p.demo_store a {
     text-align: center;
     padding: 0;
     width: 1.5em;
-    color: #2d1a97;
+    color: #694fff;
     background-color: transparent;
-    border: 1px solid #2d1a97;
+    border: 1px solid #694fff;
     border-radius: 50%;
 }
 
 .woocommerce-cart table.cart td.product-remove a.remove:hover {
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
 }
 
@@ -33369,7 +33369,7 @@ p.demo_store a {
 }
 
 .woocommerce-cart .cart_totals .discount td {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .woocommerce-cart tr.order-total span.amount {
@@ -33453,7 +33453,7 @@ p.demo_store a {
     padding: 0 0 0 22px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #2d1a97;
+    color: #694fff;
     margin: 10px 0 0 5px;
 }
 
@@ -33463,7 +33463,7 @@ p.demo_store a {
     display: block;
     float: left;
     margin: -5px 0 0 -22px;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 /* Columns */
@@ -33707,7 +33707,7 @@ p.demo_store a {
 .btDarkSkin.woocommerce-page .product .headline a:hover,
 .btLightSkin .btDarkSkin.woocommerce-page .product .headline a:hover,
 .btDarkSkin.btLightSkin .btDarkSkin.woocommerce-page .product .headline a:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btDarkSkin div.product .woocommerce-product-rating,
@@ -33899,7 +33899,7 @@ p.demo_store a {
 
 .woocommerce-MyAccount-navigation ul li a:hover,
 .woocommerce-MyAccount-navigation ul li span:hover {
-    color: #2d1a97;
+    color: #694fff;
 }
 
 .btLightSkin .woocommerce-MyAccount-navigation ul li.on a,
@@ -34015,8 +34015,8 @@ p.demo_store a {
     font-family: inherit;
     margin: 0 0 0 30px;
     line-height: 2.25;
-    border: #2d1a97 2px solid;
-    color: #2d1a97;
+    border: #694fff 2px solid;
+    color: #694fff;
     text-transform: uppercase;
     font-weight: 900;
     display: inline-block;
@@ -34053,7 +34053,7 @@ p.demo_store a {
 
 .btQuoteBooking .btContactNext:hover,
 .btQuoteBooking .btContactNext:active {
-    background-color: #2d1a97 !important;
+    background-color: #694fff !important;
     color: #fff !important;
 }
 
@@ -34116,8 +34116,8 @@ p.demo_store a {
 }
 
 .btQuoteBooking .btQuoteSwitch:hover {
-    -webkit-box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btQuoteSwitch .btQuoteSwitchInner {
@@ -34143,7 +34143,7 @@ p.demo_store a {
 
 .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner {
     margin-left: 38px;
-    background: #2d1a97;
+    background: #694fff;
 }
 
 .btQuoteBooking .btQuoteItemInput {
@@ -34202,8 +34202,8 @@ p.demo_store a {
     -webkit-transition: all 380ms ease;
     -moz-transition: all 380ms ease;
     transition: all 380ms ease;
-    -webkit-box-shadow: 5px 0 0 #2d1a97 inset, 0 2px 10px rgba(0, 0, 0, .2);
-    box-shadow: 5px 0 0 #2d1a97 inset, 0 2px 10px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 5px 0 0 #694fff inset, 0 2px 10px rgba(0, 0, 0, .2);
+    box-shadow: 5px 0 0 #694fff inset, 0 2px 10px rgba(0, 0, 0, .2);
     min-height: 38px;
 }
 
@@ -34288,7 +34288,7 @@ p.demo_store a {
     height: 38px;
     -ms-touch-action: none;
     touch-action: none;
-    background: #2d1a97;
+    background: #694fff;
     cursor: w-resize;
     cursor: -webkit-grab;
     cursor: -moz-grab;
@@ -34391,7 +34391,7 @@ p.demo_store a {
     padding: 0;
     text-align: right;
     color: #FFF;
-    background: #2d1a97;
+    background: #694fff;
     line-height: 1.8;
     display: block;
     width: 100%;
@@ -34461,45 +34461,45 @@ p.demo_store a {
 /* Error fields validation */
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea {
-    border: 1px solid #2d1a97;
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
-    box-shadow: 0 0 0 1px #2d1a97 inset;
+    border: 1px solid #694fff;
+    -webkit-box-shadow: 0 0 0 1px #694fff inset;
+    box-shadow: 0 0 0 1px #694fff inset;
     -webkit-transition: all 380ms ease;
     -moz-transition: all 380ms ease;
     transition: all 380ms ease;
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadius .ddTitleText {
-    border: 1px solid #2d1a97;
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset;
-    box-shadow: 0 0 0 1px #2d1a97 inset;
+    border: 1px solid #694fff;
+    -webkit-box-shadow: 0 0 0 1px #694fff inset;
+    box-shadow: 0 0 0 1px #694fff inset;
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input:hover,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea:hover {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #694fff inset, 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #694fff inset, 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadius:hover .ddTitleText {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #2d1a97 inset, 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #694fff inset, 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #694fff inset, 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError input:focus,
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea:focus {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #694fff inset, 5px 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #694fff inset, 5px 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadiusTp .ddTitleText {
-    -webkit-box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 1px #2d1a97 inset, 5px 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 1px #694fff inset, 5px 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px #694fff inset, 5px 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 /* Submit query message */
 .btQuoteBooking .btSubmitMessage {
-    color: #2d1a97;
+    color: #694fff;
     font-weight: 600;
     text-align: center;
     line-height: 30px;
@@ -34521,7 +34521,7 @@ p.demo_store a {
     display: block;
     padding: 10px;
     overflow: hidden;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #FFF;
 }
 
@@ -34852,13 +34852,13 @@ p.demo_store a {
 .btQuoteBooking .btContactSubmit {
     font-family: "forte Slab";
     cursor: pointer;
-    background-color: #2d1a97;
+    background-color: #694fff;
     color: #fff;
     padding: .5em 2em;
     font-weight: 700;
     font-size: 1.1em;
     opacity: 1;
-    border: 1px solid #2d1a97;
+    border: 1px solid #694fff;
     -webkit-filter: alpha(opacity=100);
     filter: alpha(opacity=100);
     -webkit-transition: all 300ms ease;
@@ -34875,7 +34875,7 @@ p.demo_store a {
 /* Submit hover state */
 .btQuoteBooking .btContactSubmit:hover {
     background-color: transparent;
-    color: #2d1a97;
+    color: #694fff;
 }
 
 /* Tablets screen */
@@ -35029,8 +35029,8 @@ p.demo_store a {
 }
 
 .btPayPalButton:hover {
-    -webkit-box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
-    box-shadow: 0 0 0 #2d1a97 inset, 0 1px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 #694fff inset, 0 1px 5px rgba(0, 0, 0, .2);
 }
 
 .btPayPalForm {
@@ -36876,7 +36876,7 @@ body.rtl {
     background-color: rgba(0, 0, 0, .9);
     font-family: FontAwesome;
     content: "\f013";
-    color: #2d1a97;
+    color: #694fff;
     text-align: center;
     cursor: pointer;
     -webkit-transform: translateX(0);
@@ -36890,7 +36890,7 @@ body.rtl {
 
 #btSettingsPanel h4 {
     font-weight: 700;
-    background-color: #2d1a97;
+    background-color: #694fff;
     padding: 1em 1.5em;
     line-height: 1em;
     font-size: 1.3em;
@@ -36913,7 +36913,7 @@ body.rtl {
 
 #btSettingsPanel .btSettingsPanelRow.btAccentColorRow .trigger,
 #btSettingsPanel .btSettingsPanelRow.btAccentColorRow select {
-    border-color: #2d1a97;
+    border-color: #694fff;
 }
 
 #btSettingsPanel .btSettingsPanelRow.btAlternateColorRow {
@@ -37043,7 +37043,7 @@ em {
 }
 
 .wp-block-button__link:hover {
-    color: #2d1a97 !important;
+    color: #694fff !important;
 }
 
 .wp-block-button {
@@ -37085,4 +37085,12 @@ em {
 
 #h4 {
     text-size: 100px !important;
+}
+
+.lien {
+    color: blue !important;
+}
+
+.lien:hover {
+    color: red !important;
 }
