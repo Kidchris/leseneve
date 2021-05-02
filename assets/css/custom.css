@@ -1,0 +1,89 @@
+.btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
+.btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
+    color: #fcf83d !important;
+    -webkit-box-shadow: 0 0 0 0 #aaa81f inset;
+    box-shadow: 0 0 0 0 #aaa81f inset;
+}
+
+.text_spe .comment-respond .btCommentsBox{
+    color: #000 !important;
+}
+
+#menu-primary-menu>li {
+    color: #fcf83d !important;
+}
+
+
+.btDarkSkin.btLightSkin .btDarkSkin a:hover {
+    text-decoration: none;
+    color: #fcf83d !;
+}
+
+.post-template-default .single .single-post .postid-2683 .single-format-gallery .theme-bold-news .bt_bb_plugin_active .bt_bb_fe_preview_toggle .woocommerce-js .bodyPreloader .btMenuLeftEnabled .btMenuBelowLogo .btStickyEnabled .btStandardHeadline .btContentOverHeadline .btLightSkin .btNoDashInSidebar .btTopToolsInMenuArea .btRemovePreloader .btSoftRoundedButtons .btNoSidebar .btMenuLeft .btMenuHorizontal .btStickyHeaderActive .btStickyHeaderOpen {
+
+    background-color: #68A042 !important;
+}
+
+body.btMenuHorizontal.btStickyHeaderActive.btLightSkin:not(.btAccentDarkHeader) .mainHeader {
+    background-color: #68A042 !important;
+}
+
+.boldSection .bottomSemiSpaced .btPageHeadline .gutter .topSemiSpaced .wBackground .cover .btParallax .btDarkSkin .btBackgroundOverlay .btSolidDarkBackground {
+    background-color: rgba(255 255 0 90%) !important;
+    color: blue !important;
+}
+
+/* .boldSection.wBackground.btSolidDarkBackground:before {
+    opacity: 1;
+    background: -moz-linear-gradient(left, rgba(255, 255, 0, .8) 0%, rgba(255, 255, 0, .8) 15%, rgba(255, 255, 0, .8) 30%, rgba(24, 24, 24, .8) 80%), -moz-linear-gradient(top, rgba(255, 255, 0, .8) 0%, rgba(255, 255, 0, .8) 40%, rgba(24, 24, 24, .8) 100%);
+    background: -webkit-linear-gradient(left, rgba(24, 24, 24, .8) 0%, rgba(255, 255, 0, .8) 15%, rgba(255, 255, 0, .8) 30%, rgba(24, 24, 24, .8) 80%), -moz-linear-gradient(top, rgba(255, 255, 0, .8) 0%, rgba(255, 255, 0, .8) 40%, rgba(24, 24, 24, .8) 100%);
+    background: -webkit-linear-gradient(left, #181818cc 0%, #18181800 15%, #18181800 30%, #181818cc 80%), -webkit-linear-gradient(top, #18181800 0%, #18181800 40%, #181818cc 100%);
+    background: -moz-linear-gradient(left, rgba(24, 24, 24, .8) 0%, rgba(255, 255, 0, .8) 15%, rgba(255, 255, 0, .8) 30%, rgba(24, 24, 24, .8) 80%), -moz-linear-gradient(top, rgba(255, 255, 0, .8) 0%, rgba(255, 255, 0, .8) 40%, rgba(24, 24, 24, .8) 100%);
+    background: linear-gradient(to right, #fffb00 0%, #18181800 15%, #18181800 30%, #181818cc 80%), linear-gradient(to bottom, #18181800 0%, #18181800 40%, #181818cc 100%);
+    -webkit-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc181818', endColorstr='#cc181818', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc181818', endColorstr='#cc181818', GradientType=1);
+} */
+
+
+
+.btDarkSkin h1,
+.btDarkSkin h2,
+.btDarkSkin h3,
+.btDarkSkin h4,
+.btDarkSkin h5,
+.btDarkSkin h6,
+.btLightSkin .btDarkSkin h1,
+.btLightSkin .btDarkSkin h2,
+.btLightSkin .btDarkSkin h3,
+.btLightSkin .btDarkSkin h4,
+.btLightSkin .btDarkSkin h5,
+.btLightSkin .btDarkSkin h6,
+.btDarkSkin.btLightSkin .btDarkSkin h1,
+.btDarkSkin.btLightSkin .btDarkSkin h2,
+.btDarkSkin.btLightSkin .btDarkSkin h3,
+.btDarkSkin.btLightSkin .btDarkSkin h4,
+.btDarkSkin.btLightSkin .btDarkSkin h5,
+.btDarkSkin.btLightSkin .btDarkSkin h6 {
+    color: #295bcee3 !important;
+    text-align: center !important;
+    /* font-size: 100% !important; */
+}
+
+.btLightSkin .menuPort>nav>ul>li>a,
+.btDarkSkin .btLightSkin .menuPort>nav>ul>li>a,
+.btLightSkin .btDarkSkin .btLightSkin .menuPort>nav>ul>li>a,
+.btLightSkin .menuPort>nav>ul>li>.bt_mega_menu_title,
+.btDarkSkin .btLightSkin .menuPort>nav>ul>li>.bt_mega_menu_title,
+.btLightSkin .btDarkSkin .btLightSkin .menuPort>nav>ul>li>.bt_mega_menu_title {
+    color: #fffc !important;
+}
+
+.btLightSkin .btIconWidget,
+.btDarkSkin .btLightSkin .btIconWidget,
+.btLightSkin .btDarkSkin .btLightSkin .btIconWidget {
+    color: #fffc !important;
+}
+
+.btMenuVertical .btLogoArea .logo img {
+    height: 70px;
+}
