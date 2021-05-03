@@ -1,8 +1,8 @@
 .btMenuVertical .menuPort span.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,
 .btMenuVertical .menuPort a.btIconWidget.btAccentIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before {
-    color: #fcf83d !important;
-    -webkit-box-shadow: 0 0 0 0 #aaa81f inset;
-    box-shadow: 0 0 0 0 #aaa81f inset;
+    color: #c2b909 !important;
+    -webkit-box-shadow: 0 0 0 0 #c2b909 inset;
+    box-shadow: 0 0 0 0 #c2b909 inset;
 }
 
 .text_spe .comment-respond .btCommentsBox{
@@ -10,13 +10,13 @@
 }
 
 #menu-primary-menu>li {
-    color: #fcf83d !important;
+    color: #c2b909 !important;
 }
 
 
 .btDarkSkin.btLightSkin .btDarkSkin a:hover {
     text-decoration: none;
-    color: #fcf83d !;
+    color: #c2b909 !important;
 }
 
 .post-template-default .single .single-post .postid-2683 .single-format-gallery .theme-bold-news .bt_bb_plugin_active .bt_bb_fe_preview_toggle .woocommerce-js .bodyPreloader .btMenuLeftEnabled .btMenuBelowLogo .btStickyEnabled .btStandardHeadline .btContentOverHeadline .btLightSkin .btNoDashInSidebar .btTopToolsInMenuArea .btRemovePreloader .btSoftRoundedButtons .btNoSidebar .btMenuLeft .btMenuHorizontal .btStickyHeaderActive .btStickyHeaderOpen {
@@ -30,7 +30,7 @@ body.btMenuHorizontal.btStickyHeaderActive.btLightSkin:not(.btAccentDarkHeader) 
 
 .boldSection .bottomSemiSpaced .btPageHeadline .gutter .topSemiSpaced .wBackground .cover .btParallax .btDarkSkin .btBackgroundOverlay .btSolidDarkBackground {
     background-color: rgba(255 255 0 90%) !important;
-    color: blue !important;
+    color: #22acdd !important;
 }
 
 /* .boldSection.wBackground.btSolidDarkBackground:before {
@@ -64,7 +64,7 @@ body.btMenuHorizontal.btStickyHeaderActive.btLightSkin:not(.btAccentDarkHeader) 
 .btDarkSkin.btLightSkin .btDarkSkin h4,
 .btDarkSkin.btLightSkin .btDarkSkin h5,
 .btDarkSkin.btLightSkin .btDarkSkin h6 {
-    color: #295bcee3 !important;
+    color: #22acdd !important;
     text-align: center !important;
     /* font-size: 100% !important; */
 }
